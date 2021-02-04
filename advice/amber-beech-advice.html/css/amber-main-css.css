@@ -1,0 +1,55 @@
+/*****BASEGRID*****/
+
+body {
+   border: 5px dotted antiquewhite ;
+   background: gainsboro;
+   width: 1200px;
+   margin: 0 auto;
+}
+
+/*****HEADER*****/
+ h1 {
+   font-family: 'Sriracha', serif;
+   font-size: 42px;
+   color: darksalmon;
+   margin-left: 25px;
+   margin-right: 175px;
+   margin-top: 115px;
+}
+
+p {
+   color: black;
+   font-size: 18px;
+   margin-left: 25px;
+   margin-right: 210px;
+}
+
+h4 {
+   color: green;
+   margin-left: 25px;
+   font-size: 14px;
+   text-transform: uppercase;
+}
+
+h5 {
+   color: mistyrose;
+   margin-left: 25px;
+   font-size: 14px;
+}
+
+/*****STYLE*****/
+
+p span {
+   text-decoration: line-through;
+}
+
+
+/*****FOOTER*****/
+
+footer p {
+  text-align: right;
+}
+
+footer {
+   background: darksalmon;
+}
