@@ -1,0 +1,35 @@
+h1 {
+	font-family: 'Rock Salt', cursive;
+	color: red;
+	float: right;
+}
+
+p {
+	font-family: 'Gochi Hand', cursive;
+	font-size: 24px;
+}
+
+body {
+	background-color: #e6ffcc;
+	clear: both;
+}
+
+a {
+	text-decoration: none;
+	float: right;
+	font-size: 20px;
+	color: #3333ff;
+	font-weight: 800;
+
+}
+
+h4 {
+	color: #248f24;
+	font-size: 32px;
+}
+
+footer p span {
+	color: #b32400;
+	font-style: italic;
+	font-size: 36px;
+}
