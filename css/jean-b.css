@@ -1,0 +1,89 @@
+/*font-family: 'Anton', sans-serif;
+font-family: 'Barlow', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Pacifico', cursive;*/
+
+body {
+    font-family: 'Barlow', sans-serif;
+    background-color: lightblue;
+}
+
+
+/***** Grid *****/
+.full-width {
+    width: 1400px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.three-quarter {
+    float: left;
+}
+.one-quarter {
+    background-image: linear-gradient(#e66465, #9198e5);
+    width: 200px;
+    height: 50px;
+    float: left;
+}
+.half-width {
+    float: left;
+    width: 650px;
+    height: 400px;
+}
+
+/***** Header *****/
+header .full-width {
+    width: auto;
+}
+.one-quarter{
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    border-radius: 75%;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.one-quarter a{
+    text-decoration: none;
+    color: darkblue;
+}
+.three-quarter {
+    padding: 20px 0 20px 200px;
+}
+.three-quarter h1{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: darkblue;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.three-quarter h1 span {
+    font-family: 'Pacifico', cursive;;
+    color: purple;
+}
+/***** Advice Section *****/
+.advice h4 {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 28px;
+    text-transform: uppercase;
+    margin: 0;
+}
+#advice {
+    clear: both;
+}
+
+#advice .half-width {
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 10px;
+}
+.advice p {
+    font-size: 18px;
+}
+
+/***** Footer *****/
+footer {
+    text-align: center;
+}
