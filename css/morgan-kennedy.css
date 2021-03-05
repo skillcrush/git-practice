@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+strong {
+    font-weight: bold;
+    color: #f16059;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
