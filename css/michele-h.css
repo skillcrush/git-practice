@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+header h1 {
+    text-align: center;
+    background-color: #00ffff;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #ff9933;
+    font-variant: small-caps;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color:#ff9933;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+span {
+    font-family: 'Pacifico', cursive;
+}
+
+strong {
+    font-size: 32px;
+    text-transform:uppercase;
+}
