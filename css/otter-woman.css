@@ -1,0 +1,29 @@
+body {
+    background:honeydew;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+}
+
+header {
+    line-height: 40px;
+    text-align: center;
+}
+
+.home-button {
+    font-family: 'Long Cang', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+
+.advice {
+    font-family: 'Vidaloka', serif;
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
