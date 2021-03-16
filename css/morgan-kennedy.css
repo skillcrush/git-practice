@@ -5,6 +5,8 @@ body {
     padding: 1em;
     margin: 0 auto;
     background: #faf5f5;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
@@ -22,6 +24,11 @@ h4 {
 a {
     text-decoration: none;
     color: #bb433d;
+}
+
+strong {
+    font-weight: bold;
+    color: #f16059;
 }
 
 footer {
