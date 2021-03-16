@@ -1,0 +1,35 @@
+body{
+  font-family: 'Playfair',serif;
+  background: #FDF5E6;
+  color:#FFA07A ;
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 75%;
+}
+
+h1{
+  font-family: 'Fascinate',cursive;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+  display:inline-block;
+  vertical-align: middle;
+}
+
+span{
+   display: block;
+}
+
+
+h4{
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+p{
+  font-size: 20px;
+}
+
+footer{
+  text-align: center;
+}

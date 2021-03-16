@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body{
+  background-color:  #0F9BB7;
+  color: white;
+  font-family: "Montserrat",sans-serif;
+  font-size: 18px;
+  margin:  20px;
+}
+
+h1,h4 {
+  font-family: "Baloo 2", cursive;
+  font-weight: bolder;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 2px;
+  border: 5px dotted white;
+}
+
+a {
+text-decoration: none;
+color: inherit;
+background-color: #2AB59A;
+padding: 2px;
+border: 1px solid white;
+
+}
+
+footer {
+  text-align: center;
+
+}
