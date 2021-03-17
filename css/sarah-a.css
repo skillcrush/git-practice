@@ -1,0 +1,36 @@
+body {
+  color: #302112;
+  background-color: #fcd0d5;
+  font-family: 'Lora';
+  text-align: center;
+}
+header {
+  height: 800px;
+  background-image: url('../be-brilliant.jpg');
+  background-size: cover;
+  background-position: center;
+  border-bottom: 5px solid #5b4530;
+  margin: -8px;
+  padding-top: 25px;
+}
+h1 {
+  font-size: 48px;
+}
+a {
+  color: #302112;
+  font-weight: bold;
+}
+.advice a {
+  font-size: 8px;
+}
+h4 {
+  font-size: 30px;
+  text-decoration: underline;
+}
+.advice p {
+  font-size: 20px;
+}
+footer {
+  font-weight: bold;
+  font-size: 16px;
+}
