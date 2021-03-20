@@ -4,15 +4,7 @@ body {
   font-family: 'Lora';
   text-align: center;
 }
-header {
-  height: 800px;
-  background-image: url('../be-brilliant.jpg');
-  background-size: cover;
-  background-position: center;
-  border-bottom: 5px solid #5b4530;
-  margin: -8px;
-  padding-top: 25px;
-}
+
 h1 {
   font-size: 48px;
 }
