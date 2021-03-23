@@ -1,0 +1,42 @@
+/***** BASE STYLES *****/
+
+body {
+    background: powderblue;
+    font-family: 'Pangolin', cursive;
+    font-size: 20px;
+    padding: 1em;
+    margin: 0 auto;
+    width: 80%;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Ranchers', cursive;
+    font-weight: lighter;
+    color: #333;
+    margin-top: 1em;
+    text-align:center;
+
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #f0564f;
+    text-align:center;
+}
+
+a {
+    text-decoration: none;
+    color: #5e0c10;
+}
+
+footer {
+    text-align: left;
+    padding-top: 1em;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
