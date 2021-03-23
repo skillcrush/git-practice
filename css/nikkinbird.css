@@ -1,0 +1,19 @@
+
+body {
+	background-color: thistle;
+	width: 60%;
+	margin: auto;
+	font-family: Courier New;
+}
+
+header {
+	margin-top: 2em;
+}
+
+.advice h4 {
+	margin-bottom: 0;
+}
+
+.advice p {
+	margin-top: .15em;
+}
