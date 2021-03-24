@@ -1,0 +1,89 @@
+/***** BASE STYLES *****/
+
+* {
+    font-size: 1em;
+}
+
+body {
+    font-family: 'Monsterrat', sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+    color: #5c5c5c;
+    background-color: #f5f5fc;
+    text-align: center;
+}
+
+/***** HEADER AND HEADINGS *****/
+
+header {
+    margin: 50px auto 40px auto;
+}
+
+h1, h4 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #2f2fa2;
+}
+
+h1 {
+    font-size: 2em;
+    letter-spacing: 0.03em;
+}
+
+h4 {
+    font-size: 1.25em;
+    margin: 50px auto 0 auto;
+}
+
+
+/***** ADVICE *****/
+
+.advice-section {
+    margin: auto;
+    width: 60%;
+    border: 10px double #2f2fa2;
+    padding-bottom: 20px;
+}
+
+.advice-point {
+    margin: 65px auto;
+    width: 80%;
+}
+
+.advice-point p {
+    line-height: 1.5em;
+}
+
+
+/***** MENU *****/
+
+.menu button {
+    color: #f64c72;
+    border: 1px solid #f64c72;
+    background-color: #f64c72;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.menu button a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+.menu button:hover,
+.menu button:active {
+    border: 1px solid #99738e;
+    background-color: #99738e;
+}
+
+.menu button:first-of-type {
+    margin-right: 30px;
+}
+
+.footer p {
+    margin: 70px auto 5px auto;
+    padding: 0;
+    font-size: 0.8em;
+}
