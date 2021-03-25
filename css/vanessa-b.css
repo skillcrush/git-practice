@@ -3,28 +3,12 @@ body {
 }
 
 header {
-  background: url('../img/laptop.jpg');
   color: white;
-  background-size: cover;
-  background-position: cover;
-  height: 400px;
   font-family: 'Rock Salt', cursive;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
-h1 {
-  padding-top: 130px;
-  line-height: 60px;
-  font-size: 50px;
-}
-
-.advice {
-  font-family: 'Montserrat', sans-serif;
 }
 
 section {
-  padding: 15px 15px 15px 15px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h4 {
@@ -33,4 +17,8 @@ h4 {
 
 p {
   margin-top: 0px;
+}
+
+footer {
+  margin-top: 10px;
 }
