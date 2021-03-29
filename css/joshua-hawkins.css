@@ -4,7 +4,7 @@ body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: snow;
 }
 
 h1 {
@@ -14,14 +14,23 @@ h1 {
 }
 
 h4 {
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: bold;
-    color: #f16059;
+    font-style: italic;
+    color: steelblue;
+    text-indent: 2em;
+}
+
+p {
+  font-size: 1.25em;
+  font-weight: bold;
+  text-align: justify;
+  padding-left: 1.5em;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: cornflowerblue;
 }
 
 footer {
