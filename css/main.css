@@ -4,24 +4,33 @@ body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: #a3c2c2;
 }
 
 h1 {
-    font-size: 2.25em;
-    color: #333;
+    font-family: staatliches;
+    font-size: 48px;
+    color:#e67300;
     margin-top: 1em;
 }
 
 h4 {
-    font-size: 1.5em;
-    font-weight: bold;
-    color: #f16059;
+    font-family: helvetica;
+    font-size: 24px;
+    font-weight: lighter;
+    color: whitesmoke;
+}
+p{
+    font-family: helvetica;
+    font-size: 16px;
+    font-weight: lighter;
+    color: gray;
 }
 
 a {
+    font-family: staatliches; 
     text-decoration: none;
-    color: #bb433d;
+    color: black;
 }
 
 footer {
