@@ -1,0 +1,36 @@
+body {
+    font-size: 16px;
+    padding: 1px;
+    margin: 0 auto;
+    background: tomato;
+    
+}
+
+h3 {
+    font-size: 25px;
+    color: #3d3d3d;
+    margin-top: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-align:center;
+}
+
+h4 {
+    font-size: 15px;
+    font-weight: 700;
+    color: #285e1d;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+a {
+    text-decoration:underline;
+    color: #285e1d;
+    
+}
+
+footer {
+    text-align: center;
+    padding-top: 1px;
+}
+
