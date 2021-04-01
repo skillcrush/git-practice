@@ -1,0 +1,12 @@
+body {
+  font-family: 'roboto', sans-serif;
+  background-image:linear-gradient(lightblue, white, lightblue);
+}
+
+h1 {
+  font-family: 'montserrat';
+}
+
+h4 {
+  text-transform: uppercase;
+}
