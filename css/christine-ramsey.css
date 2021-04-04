@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 12pt;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    width: 75%;
+    line-height: 25px;
+    background-color: #ffe6e6;
+}
+
+h1 {
+    color: #ff525d;
+}
+
+h4 {
+    color: #ff525d;
+    font-weight: lighter;
+    font-size: 22px;
+}
