@@ -1,0 +1,45 @@
+body {
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 18px;
+  background-color: #CC9999;
+  background-size: cover;
+  opacity: 90%;
+  color: #FBFAEB;
+  width: 80%;
+  margin: auto;
+}
+
+a {
+  color: #990033;
+  font-size: 0.75em;
+}
+
+h1 {
+  line-height: 48px;
+  margin: 3rem auto;
+}
+
+h4 {
+  margin-top: 5rem;
+}
+
+h1 span {
+  background: #660033;
+  background: linear-gradient(45deg, #660033, #990033, #660033, #990033, #660033,  #660033, #990033, #660033, #990033, #660033);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+h4 {
+  color: #660033;
+}
+
+footer {
+  font-size: 0.65em;
+  color: #990033;
+  margin-top: 3rem;
+  text-align: right;
+}
