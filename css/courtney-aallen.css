@@ -1,0 +1,88 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 25px;
+    padding: 1em;
+    margin:0 auto;
+    background: #ffffff;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #996666;
+    margin-top: 1em;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+#one {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #998066;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+#two {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #809966;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+#three {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #669980;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+#four {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #668099;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.five{
+   font-family: 'Courgette', cursive;
+   color: #999966;
+   text-align: center;
+}
+
+.six{
+   font-family: 'Courgette', cursive;
+   color: #669966;
+   text-align: center;
+}
+
+.seven{
+   font-family: 'Courgette', cursive;
+   color: #669999;
+   text-align: center;
+}
+
+.eight{
+   font-family: 'Courgette', cursive;
+   color: #666699;
+   text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Courgette', cursive;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+h5 {
+    color: #806699;
+    font-family: 'Lobster', cursive;
+}
