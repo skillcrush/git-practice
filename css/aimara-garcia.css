@@ -1,0 +1,74 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background:#e6dedc;
+    
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+/***** GRID *****/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.half-width {
+    width: 600px;
+    float: left;
+}
+/***** HEADER SECTION *****/
+
+header {
+    height: 700px;
+    background: url('../img/aimara_background.png');
+    background-size: cover;
+    background-position: center;
+}
+
+header a{
+    text-decoration: none;
+    color: #bb433d;
+}
+
+header h1 {
+    width:1000px;
+    clear: both;
+    font-size: 72px;
+    line-height:80px;
+    color: #9C9165; 
+    margin-top 0;
+    padding: 150px 0 20px 25px;
+    text-align: left;
+    font-family: 'Abril Fatface', cursive;
+}
+header h1 span {
+    color: #bb433d;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px ;
+}
+
+/***** FOOTER SECTION *****/
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    height: 60px;
+    background:#75a098;
+}
+
