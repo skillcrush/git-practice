@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+
+body {
+    font-size: 18px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #283747;
+}
+
+
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    color: #F3F3F3;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #DE354C;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+}
+
+a {
+    text-decoration: none;
+    color: #932432;
+}
+p {
+  text-align: center;
+  font-family: "Josefin Slab", serif;
+  color: #F3F3F3;
+}
+
+.iframe-container {
+  text-align: center;
+}
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
