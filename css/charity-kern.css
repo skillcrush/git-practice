@@ -1,0 +1,64 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+    width: 1200px;
+}
+
+h1 {
+    font-family: "Lexend", sans-serif;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    Font-family: "Lexend", sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color:#CC6600;
+}
+p {
+    font-family: "Merriweather", serif;
+}
+
+a {
+    text-decoration: none;
+    color:#CC6600;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+/***** content *****/
+
+.intro {
+    text-align: center;
+    background-color: aquamarine;
+    border: 3px dotted black;
+    clear: both;
+}
+
+.advice {
+    width: 1200px;
+    clear: both;
+    overflow: auto;
+}
+.box1 {
+    float: left;
+    width: 600px;
+    margin: 5px;
+    padding: 30px;
+}
+
+.box2 {
+    float: right;
+    width: 600px;
+    margin: 5px;
+    padding: 30px;
+}
