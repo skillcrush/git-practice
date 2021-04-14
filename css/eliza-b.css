@@ -1,0 +1,39 @@
+/********BASE STYLES*********/
+
+body {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 5px; 
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: Tahoma, sans-serif; 
+    font-size: 30px;
+    line-height: 35px; 
+    color: #2a7dd1; 
+    padding:20px; 
+}
+
+a {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px; 
+    color: #000000; 
+    text-transform: lowercase;
+}
+
+h4 {
+    padding: 10px; 
+    font-family: Tahoma, sans-serif; 
+}
+p { 
+    line-height: 25px;
+    padding-left: 15px
+    
+}
+
+footer {
+    text-align: center;
+    padding-top: 45px; 
+}
