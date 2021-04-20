@@ -1,0 +1,28 @@
+/***** BASE STYLES *****/
+
+body {
+  font-family: 'Archivo Narrow', sans-serif;
+  color: #2b2b2b;
+  font-size: 20px;
+}
+
+/***** BACKGROUND *****/
+
+body {
+  background: #e6ffe6;
+}
+
+/***** HEADER *****/
+
+h1 {
+  text-align: center;
+  color: #00cc7a;
+}
+
+h4 {
+  color: #00cc7a;
+}
+
+#wish {
+  text-align: center;
+}
