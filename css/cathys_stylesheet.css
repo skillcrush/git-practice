@@ -1,0 +1,55 @@
+/***** BASE STYLES *****/
+
+body {
+    background:  #0099cc;
+    font-size: 16px;
+    padding: 10px;
+    margin: 50px;
+}
+
+a {
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Quicksand';
+    font-size: 50px;
+}
+
+h4 {
+    color: #ffff4d;
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* border-radius: 8px; */
+
+.advice1 {
+    border: solid 1em;
+    height: 300px;
+    padding: 10px;
+    text-align: center;
+    width: 600px;
+    }
+
+.advice2 {
+        text-align: left;
+        }
+
+
+footer {
+    text-align: center;
+}
