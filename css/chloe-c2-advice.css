@@ -1,0 +1,38 @@
+body {
+  background-color: #addfee;
+}
+
+#return-to-main {
+  color: red;
+  font-size: 20px;
+  text-align: right;
+  display: block;
+  border-width: medium;
+  border-style: solid;
+  border-radius: 5px;
+  margin-right: 5px;
+  margin-left: 2130px;
+}
+
+h1 {
+  color: #b967ff;
+  display: block;
+  text-align: center;
+}
+
+h4 {
+  text-indent: 65px;
+  color: #E68282;
+}
+
+p {
+  font-size: 18px;
+  margin-left: 105px;
+  margin-top: 20px;
+}
+
+#copyright-info {
+  text-align: center;
+  margin-top: 500px;
+  color: black;
+}
