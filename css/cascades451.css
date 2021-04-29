@@ -1,0 +1,19 @@
+/***** BASE SYLES *****/
+
+body{
+	background-color: lightblue;
+}
+
+
+h1 {
+    color: #ffffff;
+    font-family: 'Monoton' , cursive;
+    font-size: 50px;
+}
+
+h4 {
+    color: #ffff4d;
+    font-family: 'Fascinate', cursive;
+    font-size: 40px;
+    font-weight: bold;
+}
