@@ -1,0 +1,38 @@
+/*****BASE STYLES*****/
+body {
+  font-family: 'Quicksand'sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  color: grey;
+  background-color: black;
+  background-size: cover;
+
+}
+
+h1 {
+  font-family: 'lobster',cursive;
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+h4{
+  font-family: 'Quicksand',sans-serif;
+  font size: 23px;
+  color: grey;
+  margin-left: 50px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: capitalize;
+  text-align: right;
+  color: lightgrey;
+  margin-left: 50px;
+}
+
+p {
+  margin left:50px;
+  margin right: 50px;
+}
