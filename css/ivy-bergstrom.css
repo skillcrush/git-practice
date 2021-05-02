@@ -1,0 +1,56 @@
+/*****BASE STYLES*****/
+body{
+  font-family:'Open Sans', sans-serif;
+  background-color:#FFDAB9;
+  margin: 50px;
+  color:#2F4F4F}
+
+/*****GRID STYLES*****/
+.full-width{
+  width: 1400px;
+}
+.half-width{
+  width: 700px;
+}
+/*****body*****/
+h1{
+  float:left;
+  font-size: 45px;
+}
+span{
+  color: teal;
+}
+img{
+  border: 5px solid teal;
+  float:left;
+  margin-left: 50px;
+  margin-right: 200px;
+  padding: 10px;
+}
+
+
+h4{
+  color: #CC0000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 20px;
+}
+.peptalk{
+  text-align: center;
+  border: 5px solid gold;
+  padding: 10px;
+}
+
+.peptalk h3{
+  font-family: 'Coda Caption', sans-serif;
+  font-size: 35px;
+}
+
+
+#upbeat p{
+  color: 	#FF4500;
+  font-weight: bolder;
+}
