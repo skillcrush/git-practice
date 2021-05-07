@@ -1,0 +1,42 @@
+/***** BASE STYLES *****/
+body {
+    background-color: lightyellow;
+    color: #ef7f01;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+}
+
+/***** LINK TO MAIN PAGE *****/
+.skillcrush-advice a {
+    color: #f52532;
+    text-decoration: none;
+}
+
+/***** HEADINGS *****/
+.skillcrush-advice h1 {
+    color: #fad749;
+    font-family: 'Pangolin', cursive;
+    font-size: 32px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.advice h4 {
+    color: #f52532;
+    font-size: 22px;
+    font-variant: small-caps;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+/***** PARAGRAPHS *****/
+.advice p {
+    line-height: 20px;
+}
+
+/***** FOOTER *****/
+footer p {
+    color: #fad749;
+    font-size: 12px;
+    margin-top: 30px;
+    text-align: center;
+}
