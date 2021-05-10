@@ -1,0 +1,45 @@
+body {
+    background-color: #FFFC57;
+}
+
+a {
+    font-family:'Crimson Text', serif;
+    text-align: left;
+    color: black;
+}
+
+h1, h4, p {
+    font-family: 'Crimson Text', serif;
+    font-style: italic; 
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 46px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 26px;
+    color: black;
+}
+
+span {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50%;
+}
