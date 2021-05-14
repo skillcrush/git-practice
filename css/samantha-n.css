@@ -1,5 +1,5 @@
 body {
-    background-color: #ff9a57;
+    background-color: #FFFC57;
 }
 
 a {
@@ -8,7 +8,8 @@ a {
     color: black;
 }
 
-h1, h4, p, a {
+
+h1, h4, p {
     font-family: 'Crimson Text', serif;
     font-style: italic; 
     color: black;
