@@ -1,0 +1,45 @@
+/***** BASE STYLES *****/
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    padding: 1em;
+    margin: 0 auto;
+    background: #def3ff;
+    width: 75%;
+}
+
+h1 {
+    font-size: 2.25em;
+    font-family: 'Poppins', sans-serif;
+    color: #b39266;
+    margin-top: 1em;
+}
+
+h1:hover {
+    color: ff36c4;
+    font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #789db3;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: left;
+    padding-top: 1em;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
