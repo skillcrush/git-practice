@@ -1,0 +1,87 @@
+/***** colors:
+#ededf5 grey
+#7498c1 lt blue
+#123054 dk blue
+
+
+font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto', sans-serif;
+ *****/
+
+body {
+  margin-top: 70px;
+  background: #ededf5;
+}
+
+header {
+  width: 1024px;
+  margin-left: 200px;
+}
+
+header h1 {
+  font-family: 'Quicksand', sans-serif;
+  color: #123054;
+  text-align: center;
+  font-size: 85px;
+  margin-top: 100px;
+  margin-bottom: 0px;
+}
+
+header span {
+  font-size: 92px;
+  animation: color-change 2s infinite;
+}
+
+@keyframes color-change {
+  0% { color: #7498c1; }
+  50% { color: #123054; }
+  100% { color: #7498c1; }
+}
+
+header h2 {
+  font-family: 'Quicksand', sans-serif;
+  color: #123054;
+  font-size: 59px;
+  text-align: left;
+  margin-top: 0px;
+}
+
+nav {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  float: right;
+  margin-top: 2px;
+  margin-bottom: 500px;
+}
+
+.half-width {
+  width: 512px;
+	float: left;
+}
+
+.advice h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  text-align: left;
+  color: #123054;
+  margin-left: 200px;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #7498c1;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15pt;
+  text-align: left
+  margin-top: 5px;
+  padding-left: 200px;
+  float: left;
+}
+
+#Copyright {
+  color: #123054;
+  font-size: 10px;
+  margin-top: 100px;
+  clear: both;
+}
