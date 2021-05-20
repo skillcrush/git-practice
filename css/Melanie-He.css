@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    color: #191970;
+    padding: 5em;
+    margin: 0 auto;
+    background: #D8BFD8;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    color: #4B0082;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #C71585;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    font-family: 'Abril Fatface', cursive;
+    color: #4B0082;
+    text-align: center;
+    padding-top: 1em;
+}
