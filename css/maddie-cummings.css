@@ -1,0 +1,34 @@
+body {
+  background: #e5ffcc;
+}
+
+h1, h3 {
+  font-family: 'Rock Salt';
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Vampiro One';
+  text-align: center;
+}
+
+.wisdom {
+  font-family: 'Oxygen';
+  text-align: justify;
+}
+
+.advice {
+  padding: 0 500px;
+}
+
+.gif {
+  text-align: center;
+}
+.link {
+  text-align: center;
+}
+
+.copyright {
+  text-align: center;
+  font-family: 'Vampiro One';
+}
