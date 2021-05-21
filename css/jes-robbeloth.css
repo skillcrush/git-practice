@@ -1,0 +1,48 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: actor;
+    font-size: 18px;
+    padding: 1em;
+    margin: 0 auto;
+    background: aliceblue;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    color: indigo;
+    text-align: center;
+    padding: 1em 0 0 2em;
+}
+
+h1 span {
+    font-size: 2.25em;
+    font-family: satisfy;
+    color: mediumvioletred;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: darkmagenta;
+    text-align: center;
+    padding: 1em 0 0 1em;
+}
+
+h2 span {
+    font-family: satisfy;
+    font-size: 1.75em;
+    color: mediumvioletred;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
