@@ -1,0 +1,48 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #F2D5DB;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #73395F;
+    margin-top: 1em;
+    text-align: center;
+    font-family: 'Train One', cursive;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #D9487D;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    max-width: 25%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 10px solid #D9981E;
+
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
