@@ -1,0 +1,65 @@
+/***** BEGIN BASE STYLES ***/
+
+body {
+	background-color: #000000;
+	font-family: 'Titillium Web', sans-serif;
+	font-size:  16px;
+	margin:  0 auto;
+}
+
+
+header p {
+	text-align: center;
+	text-indent: 0px;
+}
+
+
+a {
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 16px;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+p {
+	font-size: 16px;
+	color: #ffffff;
+	line-height: 10px;
+	text-indent: 100px;
+}
+
+
+h1 {
+	background: #ff4500;
+	color: #ffffff;
+	font-size: 36px;
+	line-height: 16px;
+	padding:  50px;
+	text-align: center;
+}
+
+h1 em {
+	color: #000000;
+	font-weight: bold;
+}
+
+h4 {
+	font-size:  20px;
+	color: #ff4500;
+	line-height: 16px;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+
+footer p {
+	background: #ffffff;
+	color: #000000;
+	margin-top: 50px;
+	padding: 20px;
+	text-align: center;
+}
+
+/***** END BASE STYLES ***/
+
