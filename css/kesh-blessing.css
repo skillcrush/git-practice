@@ -1,0 +1,19 @@
+
+header
+{}
+body
+{
+width: 1200px;
+margin: 0 auto;
+background-color: lightgreen;
+}
+h4
+{
+color: green;
+text-transform: uppercase;
+font-weight: bold;
+}
+p
+{
+text-align: center;
+}
