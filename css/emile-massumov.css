@@ -1,3 +1,75 @@
 body {
-  background-color:;
+margin: 0px;
+}
+
+header {
+
+}
+
+
+#pic {
+background-image: url('../img/yoga.jpg');
+height: 100vh;
+background-position: center;
+background-size: cover;
+}
+
+#pic h1 {
+font-size:45px;
+text-align: center;
+color:#4B3936 ;
+font-family: 'Satisfy', cursive;
+}
+
+ #pic h1 span {
+    color:red;
+    clear:both;
+}
+.full-width {
+    width: auto;
+    margin: 0 auto;
+    overflow: auto;
+    background-color: #E1BE76;
+    text-align: center;
+
+}
+
+#left {
+width: 40%;
+float: left;
+padding: 30px;
+font-size: 24px;
+margin:0px;
+
+}
+#right {
+width: 40%;
+float: left;
+padding:30px;
+font-size: 24px;
+margin: 0px;
+}
+h5 {
+  width: auto;
+  margin: 0 auto;
+  overflow: auto;
+  background-color: #E1BE76;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Inconsolata', monospace;
+  padding-bottom: 20px;
+}
+p {
+  font-size: 24px;
+  font-family: 'Inconsolata', monospace;
+}
+footer p {
+  text-align: center;
+  background-color: #916814;
+  color: #fff;
+  margin: 0px;
+  padding-top:20px;
+  padding-bottom: 20px;
+  font-size: 18px;
+
 }
