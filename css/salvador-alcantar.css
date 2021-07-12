@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.advice h2 {
+    margin-left: 10px;
+}
+
+.advice p {
+    text-align: center;
+
+}
+
+footer p {
+    text-align: center;
+}
