@@ -1,0 +1,42 @@
+body {
+    font-family: arial;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    text-align: center;
+    width: 500px;
+    line-height: 1.5;
+    background-color: #fbcfcd;
+}
+
+p,
+a,
+footer {
+  color: #636363;
+}
+
+main {
+  background-color: #fbcfcd;
+  padding: 20px;
+  border: 5px solid #f16059;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #4db474;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    padding-top: 1em;
+}
