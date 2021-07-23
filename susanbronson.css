@@ -1,0 +1,35 @@
+/***** BASE STYLES *****/
+
+background {
+    color: #76f2dc
+}
+body {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #27afd8;
+}
+
+h1 {
+    font-family: Pacifico;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #bbc6ca;
+}
+
+a {
+    text-decoration: none;
+    color: #bbc6ca;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
