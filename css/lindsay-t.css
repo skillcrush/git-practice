@@ -1,0 +1,65 @@
+/***** BASE STYLES *****/
+
+body {
+    background-color: olive;
+    text-align: center;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+h1 span {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+
+h4 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+header {
+    background-color: #f9ceb7;
+    width: 800px;
+    margin: 100px auto;
+    box-sizing: border-box;
+    padding-bottom: 5px;
+    border-top: 3px dotted white;
+    border-right: 3px dotted white;
+    border-left: 3px dotted white;
+}
+
+header a {
+    font-family: 'Work Sans', sans-serif;
+    color: olive;
+}
+
+.advice {
+    background-color:#cccb70;
+    width: 800px;
+    margin: -100px auto;
+    padding: 10px 60px 20px 60px;
+    box-sizing: border-box;
+    border-right: 3px dotted white;
+    border-left: 3px dotted white;
+}
+
+footer {
+    background-color: #eb9d73;
+    color: white;
+    width: 800px;
+    margin: 100px auto;
+    padding: 1px 0 1px 0;
+    box-sizing: border-box;
+    border-right: 3px dotted white;
+    border-left: 3px dotted white;
+    border-bottom: 3px dotted white;
+    
+}

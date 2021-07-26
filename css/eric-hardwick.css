@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(10, 10, 101);
+    color: beige;
+    margin: 20px;
+}
+
+
+h4 {
+    font-size: larger;
+}
+
+span {
+    color: whitesmoke;
+    font-style: italic;
+}
+
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
