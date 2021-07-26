@@ -1,0 +1,30 @@
+/*****BASIC STYLES*****/
+
+body {
+    background-color: honeydew;
+    font-size: 14px;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+}
+
+div {
+    background-color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-style: italic;
+    color: magenta;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+h4 {
+    text-transform: capitalize;
+    font-size: 20px;
+    color: slateblue;
+}
+
+
+
