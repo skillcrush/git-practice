@@ -1,0 +1,60 @@
+div {
+    box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  color: #000000;
+  background: #b3d9ff;
+  font-weight: 250;
+  line-height: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: #252422;
+}
+
+a:hover {
+  color: #837569;
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: 'Garamond', serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Garamond', serif;
+  font-size: 22px;
+  text-transform: none;
+  text-align: center;
+}
+
+.container {
+	background-size: 1000px 220px;
+	margin: 10px auto;
+	width: 1000px;
+}
+
+.header {
+	padding: 50px;
+	text-align: center;
+	border-bottom: 2px solid #ffffcc;
+}
+
+p {
+  line-height: 24px;
+}
+
+
+.credits {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 5px;
+}
