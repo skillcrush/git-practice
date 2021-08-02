@@ -1,0 +1,50 @@
+/***** BASE STYLES *****/
+
+body {
+    padding: 1em;
+    margin: 0 auto;
+    background: #f9ecf9;
+}
+
+h1, h4 {
+    color: navy;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+h1 {
+    font-size: 2.25em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #ffffe6;
+    display: inline;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: navy;
+}
+
+.advice {
+    border: solid navy 3px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    width: 800px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
