@@ -1,0 +1,31 @@
+body {
+    background: rgb(245,205,236);
+    background: linear-gradient(90deg, rgba(245,205,236,1) 25%, rgba(254,181,192,1) 100%);
+    width: 1200px;
+}
+
+h1{
+    font-family: 'Carter One', cursive;
+    color:rgb(249, 251, 252);
+    text-align: center;
+}
+
+h4{
+    color:rgb(88 171 213);
+} 
+
+a {
+    color:honeydew;
+}
+
+section{
+    width:1000px;
+    padding: 30px;
+    margin: auto;
+    border: ivory solid 2px;
+}
+
+p{
+    font-size: 22px;
+    color: darkgoldenrod;
+}
