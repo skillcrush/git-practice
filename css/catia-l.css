@@ -1,0 +1,37 @@
+body {
+    background: #e6ffe6;   
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 50px;
+    color: #8080ff;
+}
+
+.tenor-gif-embed {
+    width: 400px;
+    height: 400px;
+}
+.advice {
+    border: 5px solid #ccccff;
+    margin-top: 20px;
+    padding: 5px 20px;
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 30px;
+    color: #8080ff;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+    font-style: italic;
+    color: #ccccff;
+}
