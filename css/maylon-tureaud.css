@@ -1,0 +1,40 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 12px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #ff33a3;
+}
+
+h1 {
+    font-size: 20px;
+    color: #f6f6f6;
+    margin-top: 1em;
+    font-family: 'Oxygen', sans-serif;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #f16059;
+    font-family: 'Oxygen', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+p {
+    color: #495050;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px; 
+
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: 209597;
+}
