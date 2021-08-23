@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    background: hsl(27, 68%, 62%);
+    font-size: 16px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    padding: 1em;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
