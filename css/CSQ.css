@@ -1,0 +1,35 @@
+/***** BASE STYLES *****/
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+h1 {
+	font-family: 'Lora', serif;
+    font-size: 2.25em;
+    color: #BBC085;
+    margin-top: 1em;
+}
+
+h4 {
+	font-family: 'Lora', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #2b2b2b;
+}
+
+p, ul { color: #7F7F7F;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
