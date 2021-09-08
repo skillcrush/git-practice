@@ -1,0 +1,28 @@
+/***** BASE STYLES *****/
+
+body  {
+    font-size: 22px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #C4FAF8;
+}
+
+header  {
+    color: #2C736F;
+    text-align:center;
+}
+
+/***** SECTION STYLES *****/
+
+.advice  { 
+    color: #2C736F;
+}
+
+h2  {
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
