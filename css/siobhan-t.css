@@ -1,0 +1,73 @@
+/***** BASE STYLES *****/
+.color-1 {color: #7abfc8;}
+.color-2 {color: #aa7ac8;}
+.color-3 {color: #c8837a;}
+.color-4 {color: #98c87a;}
+.color-5 {color: #faf5f5;}
+font-family: 'Della Respira', serif;
+
+body {
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #7abfc8;
+}
+
+header {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+span {
+    color: #7abfc8;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #7abfc8;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "open sans", sans-serif;
+    color: #98c87a;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    clear: both;
+}
+p {
+    font-family: 'Open sans', sans-serif;
+    color: #333;
+}
+em {
+    font-weight: bold;
+    color: #aa7ac8;
+    text-decoration-line: underline;
+    text-shadow: 1px #333;
+}
+/****** GRID ******/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.half-width {
+    width: 600px;
+    float: left;
+    padding: 0em;
+    padding-bottom: 50px;
+    margin: 0 auto;
+
+}
