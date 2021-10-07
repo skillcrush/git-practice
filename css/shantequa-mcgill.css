@@ -1,0 +1,23 @@
+/***Body***/
+body {
+    background-color: navy;
+
+}
+h1 {
+    background-color: yellow;
+    color: blue;
+    font-variant: small-caps;
+    text-align: center;
+
+}
+h4 {
+    color: white;
+    font-variant: small-caps;
+    text-decoration: underline;
+    text-align: center;
+
+}
+p {
+    background-color: yellow;
+    color: blue;
+}
