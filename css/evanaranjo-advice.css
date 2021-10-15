@@ -1,0 +1,31 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+h1 {
+    font-size: 20px;
+    color: rgb(89, 124, 240);
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #59f187;
+}
+
+a {
+    text-decoration: none;
+    color: #e3fa17;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
