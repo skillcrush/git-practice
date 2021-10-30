@@ -1,0 +1,12 @@
+body {
+    width: 90%;
+}
+#main-link:hover {
+    color: #f16059;
+}
+.name a {
+    color: #f16059;
+}
+.name a:hover {
+    color: #bb433d;
+}
