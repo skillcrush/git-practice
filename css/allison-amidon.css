@@ -1,0 +1,38 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #F5E0CB;
+}
+
+h1 {
+    font-family: 'Knewave', cursive;
+    font-size: 40px;
+    font-weight: lighter;
+    line-height: 1.3em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Amatic SC';
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 18px;
+    color: #5632A7;
+}
+
+a {
+    font-family: 'Amatic SC';
+    font-weight: 700;
+    text-decoration: none;
+    color: #5632A7;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
