@@ -1,0 +1,52 @@
+/***** BASE *****/
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    padding: 16px;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+h1 {
+    font-family: 'Emilys Candy', cursive; 
+    font-size: 36px;
+    color: #000;
+    margin-top: 16px;
+    text-align: center;
+}
+
+header span {
+    color: purple;
+}
+
+h4 {
+    font-family: 'Emilys Candy', cursive;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: center;
+    color: purple;
+}
+
+p {
+    width: 750px;
+    margin: auto;
+    line-height: 27px;
+    text-align: center;
+}
+
+p.call-out {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a {
+    color: purple;
+}
+
+footer {
+    color: purple;
+    padding-top: 16px;
+    text-align: center;
+}
+
