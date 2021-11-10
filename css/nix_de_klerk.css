@@ -1,0 +1,52 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    font-family: 'zen antique soft', serif;
+    padding: 1em;
+    margin: 0 auto;
+    background: url('../img/water.png') no-repeat;
+    background-size: cover;
+    padding:4em;
+   
+}
+
+h1 {
+    
+    font-size: 3em;
+    font-variant: small-caps;
+    text-align: center;
+    color: #333;
+    margin-top: 1em;
+    border: 1px solid darkgray;
+    padding: 5px;
+    
+}
+
+h4 {
+    
+    font-size: 2em;
+    font-weight: bold;
+    color: blueviolet
+}
+p {
+    font-family: 'roboto', sans-serif;
+    border: 1px solid darkgray;
+    font-weight: bolder;
+    background-color: white;
+    padding: 10px;
+}
+a {
+    
+    text-decoration: none;
+    color: magenta;
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 20px;
+    margin-top: 3em;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
