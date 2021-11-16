@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+}
+
+
+body {
+    background-color: rgb(197, 241, 168);
+    text-align: center;
+
+}
+
+.advice {
+    width: 90%;
+    border: 2px solid #444;
+    padding: 2em;
+    text-align: center;
+    margin: 30px, auto, 30px, auto;
+}
+
+ h4 {
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+    font-size: 1.75em;
+
+}
+
+ p {
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+}
+.heavy {
+    font-weight: 900;
+}
