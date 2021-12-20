@@ -1,0 +1,64 @@
+/***** BASE STYLES *****/
+
+body {
+    width: 1200px;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #d9d9d9;
+    text-align: center;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+div .half-width {
+    width: 600px;
+    float: left;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 2.25em;
+    color:  #a6c8d9;
+    margin-top: 1em;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 2px 2px 5px black;
+}
+
+h4 {
+    font-size: 1.3em;
+    color: #3b3b3b;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 2px 2px 5px white;
+}
+
+h4#disbelief {
+    font-size: 1.3em;
+}
+
+p {
+    margin: 25px auto;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #a6c8d9;
+    margin-right: 100%;
+    text-shadow: 1px 1px 2px black;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 1em;
+    clear: both;
+}
+
+

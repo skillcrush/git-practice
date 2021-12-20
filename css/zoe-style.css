@@ -1,0 +1,104 @@
+*  {box-sizing: border-box;
+}
+
+/*https://css-tricks.com/box-sizing/*/
+
+body {
+    background-color: darkslateblue;
+    padding: 4em;
+    font-family: 'Cabin', sans-serif;
+}
+main {
+    border: 6px dotted lightcoral;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+/*https://developer.mozilla.org/en-US/docs/Web/CSS/max-width*/
+
+a:hover {
+    color: rgb(187, 236, 8);
+}
+ /*https://www.w3schools.com/css/css_link.asp*/
+a {
+    color:indigo;
+    font-size: 1.5em;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+p {
+    color: rgb(25, 25, 65);
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+}
+
+header {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 3em; 
+    text-align: center; 
+}
+h1 {
+    font-size: 3em;
+    font-weight:900;
+}
+
+h1, h4 {
+    text-align: center;
+}
+h4 {
+    color: RebeccaPurple;
+    background-color: lavender;
+    font-size: 2em;
+    padding: 12px 0;
+    border: 8px dotted RebeccaPurple;  
+}
+
+section {
+    background-color: thistle;
+    color: steelblue;
+    padding: 3em
+
+}
+
+/* found solution to responsive youtube video at https://www.h3xed.com/web-development/how-to-make-a-responsive-100-width-youtube-iframe-embed*/
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    border: 6px dotted cornflowerblue; 
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#ira {
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    font-size: 1em;
+}
+#ira a {
+    color: fuchsia;
+}
+#ira a:hover {
+    color: cyan;
+}
+
+footer {
+    color: linen;
+    text-align: center;
+    background-color:MediumSlateBlue;
+    padding: 1em 0;
+}
+
+
+
+
+
