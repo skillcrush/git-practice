@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 0 300px;
+    margin: 0 auto;
+    background: #faf5f5;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.25em;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(231, 20, 83);
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #44062a;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
