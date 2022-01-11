@@ -1,0 +1,38 @@
+body {
+    margin: 0 auto;
+    background-color: rgb(238, 229, 218);
+    padding: 1em;
+}
+
+h1, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+    color: salmon;
+}
+
+h1{
+    text-align: center;
+    padding: 1em;
+}
+
+p, ul, li {
+    font-family: 'Arial';
+    line-height: 20px;
+}
+
+li {
+    list-style: none;
+    line-height: 24px;
+}
+
+span {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: salmon;
+    font-size: 85%;
+}
+
+footer {
+    text-align: center;
+    color: salmon;
+    padding: 1em;
+}
