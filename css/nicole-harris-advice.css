@@ -59,8 +59,12 @@ h4 {
 
 p {
     padding-top: 10px;
+    font-weight: 200;
 }
 
+ul {
+    font-weight: 200;
+}
 strong {
     color: #f7ca18;
 }
@@ -70,13 +74,12 @@ b {
 }
 
 .quote {
-    font-weight: bold;
-    margin: 0 auto;
-    text-align: center;
-    width: 500px;
     font-family: 'Sora', sans-serif;
     font-size: 26px;
-    
+    font-weight: 400;
+    margin: 0 auto;
+    text-align: center;
+    width: 500px; 
 }
 
 footer {
