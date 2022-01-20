@@ -43,8 +43,12 @@ h4 {
     font-weight: bold;
 }
 
-p span {
+p span:first-child {
     color: #8eecf5;
+}
+
+p span.heart {
+    color: #FFCFD2;
 }
 
 footer p {
