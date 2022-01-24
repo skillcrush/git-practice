@@ -1,0 +1,87 @@
+/***** NICOLE HARRIS ADVICE CSS *****/
+
+/* COLORS:
+    background-gradient: #131516, #373d3f;
+    General Text: #f0eee4
+    strong Elements: #ffc745;
+    Em elements: #fa148b;
+*/
+    
+
+body {
+    background-image: linear-gradient(to bottom right, #131516 5%, #373d3f, #1e2b36);
+    color: #f0eee4;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sora', sans-serif;
+    line-height: 30px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.advice {
+    margin: 0 auto;
+    width: 800px;
+}
+
+a {
+    color: #89c4f4;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 56px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Parisienne', cursive;
+    text-align: center;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.advice-bullets {
+    padding-top: 30px;
+}
+
+p {
+    padding-top: 10px;
+    font-weight: 200;
+}
+
+ul {
+    font-weight: 200;
+}
+strong {
+    color: #f7ca18;
+}
+
+b {
+    color:  #89c4f4;
+}
+
+.quote {
+    font-family: 'Sora', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0 auto;
+    text-align: center;
+    width: 500px; 
+}
+
+footer {
+    text-align: center;
+}
