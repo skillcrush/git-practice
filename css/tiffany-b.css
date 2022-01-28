@@ -1,0 +1,17 @@
+body { 
+    background-color: #00ffbf;
+}
+header h1 {
+    text-align: center;
+}
+header h1 span {
+    font-family: 'Comforter Brush', cursive;
+}
+section h4 {
+    text-align: center;
+    text-transform: uppercase;
+}
+footer p {
+    text-align: center;
+    border-style: dotted;
+}
