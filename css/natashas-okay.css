@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(245, 159, 79);
+}
+
+h1{
+    color:rgb(63, 43, 83);
+}
+
+h4{
+    color:rgb(139, 133, 133);
+    text-transform: uppercase;
+}
+
+footer{
+    color:tomato;
+    text-decoration-line:underline;
+}

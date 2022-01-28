@@ -1,0 +1,57 @@
+body {
+    background: #b9fbc0;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+}
+
+a {
+    background: #fde4cf;
+    color: #a3c4f3;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+}
+
+    a:hover {
+        background: #a3c4f3; 
+        color: #fde4cf;
+    }
+
+h1 {
+    background: #f1c0e8;
+    color: #98f5e1;
+    padding: 5px;
+}
+
+.advice {
+    background: #fbf8cc;
+    border-radius: 9px;
+    margin: auto;
+    padding: 10px;
+}
+
+h4, .advice p {
+    font-size: xx-large;
+}
+
+h4 {
+    color: #cfbaf0;
+}
+
+.advice p {
+    color: #90dbf4;
+    font-weight: bold;
+}
+
+p span:first-child {
+    color: #8eecf5;
+}
+
+p span.heart {
+    color: #FFCFD2;
+}
+
+footer p {
+    color: black;
+}
+
