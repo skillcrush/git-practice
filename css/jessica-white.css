@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(194, 243, 227);
+}
+
+h1 {
+  font-family:'Lobster', cursive;
+  text-align: center;
+  font-size: 42px;
+  color: #ffffffe8;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.skillcrush-advice {
+  background-color: rgb(245, 75, 75);
+}
+
+.advice {
+  background-color: rgb(233, 215, 215);
+  border: 1px solid black;
+}
+
+.highlight {
+  background-color: yellow;
+  text-transform: capitalize;
+  padding: 10px;
+}
+
+h4 {
+  font-family:'Lobster', cursive;
+  text-align:center;
+  font-size: 28px;
+}
+
+p {
+  font-size: 22px;
+  padding: 8px 65px;
+  font-weight: 400;
+}
+
+footer {
+  text-align: center;
+}
+ 
