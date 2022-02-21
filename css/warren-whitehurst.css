@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    color: aliceblue;
+    padding: 1em;
+    margin: 0 auto;
+    background: rgb(8, 8, 63);
+}
+
+h1 {
+    font-size: 2.25em;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(211, 219, 218);
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #afd68f;
+}
+
+a {
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: #afd68f;
+}
+
+footer {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding-top: 1em;
+}
