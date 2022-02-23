@@ -1,0 +1,44 @@
+
+header {
+    background: white;
+    padding-bottom: 25px;
+}
+
+a {
+    background:#1f2a2e;
+    color: lightgray;
+    padding: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    font-variant: small-caps;
+    margin-top: 100px;
+}
+
+body {
+    background: lightgray;
+    color: #1f2a2e;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #2F4F4F;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+p {
+    line-height: 30px;
+}
+
+.advice {
+    margin: 50px 250px;
+}
+
+footer {
+    text-align: right;
+    margin-top: 80px;
+    margin-right: 250px;
+}
