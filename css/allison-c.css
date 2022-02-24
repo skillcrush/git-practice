@@ -1,0 +1,46 @@
+body {
+    background-color: #411f4f;
+    color: #bcb9bd;
+    font-family: 'Arvo', serif;
+    margin: 0 auto;
+    width: 1200px;
+
+}
+
+header {
+    color: #e0b6f2;
+    font-size: 16px;
+}
+
+img{
+    width: 60px;
+    height: 30px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 span {
+    color: #d681f7;
+    font-family: 'Galada', cursive;
+    font-size: 38px;
+}
+
+.advice h4 {
+    color:#727073;
+    font-size: 20px;
+    font-variant: small-caps;
+    padding-left: 25px;
+}
+
+p {
+    padding: 10px 25px 10px 25px;
+}
+
+footer {
+    padding: 20px;
+    color: #727073;
+    text-align: center;
+}
