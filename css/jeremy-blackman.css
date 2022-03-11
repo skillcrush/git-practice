@@ -1,0 +1,42 @@
+
+/***** BASE STYLES *****/
+body {
+    background: #e6d965;
+    color: #591375;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 auto;
+    padding: 1em;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Alegreya', serif;
+    font-size: 2.25em;
+    color: #f36652;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Alegreya', serif;
+    font-size: 2.0em;
+    font-weight: bold;
+    color: #d1853d;
+}
+
+a {
+    text-decoration: underline;
+    color: #4b7d40;
+}
+
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: #ee14d1;
+}
+
+.lifestyle img {
+    margin: 0 auto;
+}    
