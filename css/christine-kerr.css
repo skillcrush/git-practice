@@ -1,0 +1,38 @@
+/***** main.css was copied by me and then tweaked *****/
+/***** BASE STYLES *****/
+
+
+body {
+    background: #DEB887;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px; 
+    margin: 0 auto;
+    padding: 3em;
+}
+
+h1 {
+    color: #00008B;
+    font-size: 2.25em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    color: #DC143C;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+a {
+    color: #bb433d;  
+}
+
+footer {
+    color: blue;
+    font-weight: bold;
+    padding-top: 1em;
+    text-align: right;   
+}
