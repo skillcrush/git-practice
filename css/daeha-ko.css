@@ -1,0 +1,29 @@
+/***** BASE STYLES *****/
+
+body {
+    background-color: beige;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+}
+
+div {
+    background-color: red;
+}
+
+h1 {
+    color: maroon;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+
+h4 {
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+p{
+    color: white;
+}

@@ -1,0 +1,45 @@
+/***** BASE STYLES *****/
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+    text-align: center;
+}
+
+/***** HEADER *****/
+header {
+    background-color: #faecec;
+    margin: 0;
+}
+header h1 {
+    padding: 65px 0 65px 25px;
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    color: #c722bf;
+}
+
+header h1 span {
+    color: #2b2b2b;
+}
+
+/***** ADVICE *****/
+.advice {
+    margin: 0 100px;
+}
+.advice h4 {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+/***** FOOTER *****/
+footer {
+    text-align: center;
+    text-transform: uppercase;
+    border-top: 1px solid #eee;
+    background-color: #faecec;
+    margin: 0;
+    padding: 10px;
+}
+
+footer span {
+    font-weight: bold;
+}
