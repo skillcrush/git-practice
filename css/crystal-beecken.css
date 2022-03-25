@@ -1,0 +1,41 @@
+crystal-beecken.css
+/***** BASE STYLES *****/
+
+body {
+    font-size: 12px;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.advice {
+    background-image: url("https://images.unsplash.com/photo-1633613286848-e6f43bbafb8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    width: 875px;
+    padding: 15px;
+}
+
+.advice h4, p {
+    width: 600px;
+    margin: 5px;
+}
