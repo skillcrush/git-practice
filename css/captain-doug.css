@@ -1,0 +1,57 @@
+/***** BASE STYLES *****/
+html {
+    background-color: black;
+
+
+}
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    margin-right:20%;
+    margin-left:20%;
+    background: #faf5f5;
+}
+
+h1 {
+    font-size: 2.25em;
+    font-family: impact;
+    color: #20976b;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #20976b;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    color: #2273ed;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: #20976b;
+}
+
+.doug-advice {
+    width:85%;
+    text-align:center;
+    background:black;
+    color:white;
+    font-weight:bolder;
+    margin: auto;
+    padding:1em;
+    list-style-position:inside;
+    line-height: 1.8;
+    font-size:18px;
+
+
+
+}

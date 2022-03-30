@@ -1,0 +1,18 @@
+body {
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    padding-left: 10px;
+}
+header a {
+    color: aqua;
+}
+
+.advice {
+    border: solid #ffffff 5px;
+    border-radius: 25px;
+    padding: 0 10px;
+}
