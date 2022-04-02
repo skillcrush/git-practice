@@ -1,0 +1,162 @@
+/***** BASE *****/
+
+/* Added tiled background image of coffee, and added font-family to body. */
+
+body {
+
+  background: url('https://cdns.iconmonstr.com/wp-content/assets/preview/2013/240/iconmonstr-coffee-8.png') repeat linen;
+
+  font-family:'Red Hat Mono', monospace;
+
+     }
+
+
+/***** HEADER *****/
+
+/* Added background color, clear border, a different font-family, margins and a fixed width to header. Changed the font size and alignment of main heading. Added font-size, margins, padding and font-family for the main page link */
+
+header {
+
+  background-color: honeydew;
+
+  border: 1px solid honeydew;
+
+  font-family:'Bungee Shade', cursive;
+
+
+
+  margin: 0px 144px;
+
+  overflow: auto;
+
+  width: 958px;
+
+       }
+
+h1 {
+
+  font-size: 28px;
+
+  text-align: center;
+
+   }
+
+a {
+
+  font-family: 'Red Hat Mono', monospace;
+
+  font-size: 14px;
+
+  margin: 6px;
+
+  padding: 2px;
+
+  }
+
+/***** SECTION *****/
+
+/* Edited advice section and the created classes; full-width and half-width. Within the advice section and created classes; all other subheadings and paragraphs were edited. */
+
+.advice {
+
+  border: 1px solid aliceblue;
+
+  background-color: seashell;
+
+  color: black;
+
+
+
+  margin: 0px 144px;
+
+  overflow: auto;
+
+  width: 958px;
+
+        }
+
+.half-width {
+
+  border-left: 5px solid seashell;
+
+  border-right: 5px solid seashell;
+
+  float: left;
+
+
+
+  overflow: auto;
+
+  width: 469px;
+
+            }
+
+.full-width {
+
+  border-top: 5px solid silver;
+
+  clear: both;
+
+
+
+  width: 958px;
+
+            }
+
+h4 {
+
+  background-color: bisque;
+
+  color: chocolate;
+
+  font-weight: bold;
+
+  font-family:'Lobster', cursive;
+
+  font-size: 26px;
+
+  font-variant: small-caps;
+
+  line-height: 16px;
+
+  text-align: center;
+
+   }
+
+p {
+
+  background-color: aliceblue;
+
+  color: black;
+
+  font-size: 14px;
+
+  line-height: 16px;
+
+  letter-spacing: 2px;
+
+  text-align: center;
+
+  word-spacing: 3px;
+
+  }
+
+/***** FOOTER *****/
+
+/* Added clear border, background color, different font-family, margins and fixed width to footer. */
+
+footer {
+
+border: 1px solid aliceblue;
+
+background-color: honeydew;
+
+font-family: 'Bungee Shade', cursive;
+
+
+
+margin: 0px 144px;
+
+width: 958px;
+
+}
