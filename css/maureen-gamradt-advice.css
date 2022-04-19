@@ -1,0 +1,41 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+    font-family: 'Josefin Sans', sans-serif;
+    width: 1200px;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    font-weight: 700px;
+    font-style: italic;
+}
+
+span {
+    font-family: 'Square Peg', cursive;
+    font-size: 75px;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
