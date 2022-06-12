@@ -1,0 +1,22 @@
+
+body{
+    font-family: "Playfair Display", serif;
+    color:black;
+}
+h1{
+    font-family: "Playfair Display", serif;
+    color:black;
+}
+
+h1 span{
+    font-family: "Sofia", cursive;
+    color:mediumvioletred;
+
+}
+
+h4{
+    color:teal;
+    font-variant: small-caps;
+    font-size: 20px;
+
+}
