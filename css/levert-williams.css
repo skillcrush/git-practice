@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #BED8EA;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #5B045E;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #381042;
+}
+
+a {
+    text-decoration: none;
+    color: #200526;
+}
+
+section p span {text-transform: capitalize;
+        text-decoration: wavy;}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
