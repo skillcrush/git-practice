@@ -1,0 +1,54 @@
+/***** BASE STYLES *****/
+
+body {
+    background: #00003e;
+    color: white;
+    font-size: 18px;
+    margin-left: 25px;
+    padding: 16px;
+}
+
+/***** HEADER *****/
+
+h1 {
+    color: #bee0ec;
+    font-size: 1.75em;
+    margin-top: 1em;
+}
+
+h1 span {
+    color: white;
+}
+
+/***** ADVICE SECTION *****/
+
+h4 {
+    color: #bee0ec;
+    font-size: 1.25em;
+    font-weight: bold;
+    letter-spacing: .05em;
+}
+
+.advice {
+    width: 900px;
+}
+
+.advice img {
+    height: 208px;
+    width: 208px;
+}
+
+/***** NAVIGATION *****/
+
+a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+/***** COPYRIGHT *****/
+
+footer {
+    padding-top: .25em;
+    text-align: left;
+}
