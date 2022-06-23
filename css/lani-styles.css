@@ -16,7 +16,7 @@ h1 {
 h4 {
   font-size: 1.5em;
   font-weight: bold;
-  color: #535e3d;
+  color: #7db719;
 }
 
 a {
@@ -27,4 +27,7 @@ a {
 footer {
   text-align: center;
   padding-top: 1em;
+}
+
+.autumn-color {color:coral; font-style: italic, bolder;
 }
