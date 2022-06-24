@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    background-color: #e5b0cd;font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 30px;   
+}
+
+h1 {
+    color: #177245;font-family: 'Lato', sans-serif;
+    font-size: 2.25em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    color: #3f1d3a;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+a {
+    color: #177245;
+    text-decoration: none;
+}
+
+footer {
+    color: #177245;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    margin-top: 1em;
+    text-align: center;
+    text-align: center;
+    padding-top: 1em;
+}
