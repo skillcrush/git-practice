@@ -1,0 +1,58 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 20px;
+    padding: 16px;
+    margin: 0 auto;
+    background: #F1FFFF;
+    font-family: 'Poppins', sans-serif;
+}
+
+.skillcrush-advice {
+    width: 1100px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 30px;
+    color: #333;
+    margin-top: 16px;
+}
+
+h1 span {
+    font-family: 'Galada', cursive;
+    color: #f16059;
+}
+
+.advice {
+    font-family: 'Merriweather', serif;
+    color: #333;
+    padding: 10px 30px;
+    border: 3px solid lightslategray;
+    background: white;
+}
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    color: #f16059;
+}
+
+p {
+    line-height: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #f16059;
+}
+
+footer {
+    text-align: center;
+    padding-top: 16px;
+    color: #f16059;
+}
+
+footer p span {
+    font-family: 'Galada', cursive;
+}
