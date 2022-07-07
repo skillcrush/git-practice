@@ -1,0 +1,58 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    padding: 1em;
+    margin: 0 auto;
+    background: #e3e6e4;
+}
+
+header {
+    background-color: #316164;
+    padding-bottom: 55px;
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 25px;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #e3e6e4;
+    margin-top: 1em;
+    margin-bottom: 5px;
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.3em;
+    color: #e3e6e4;
+    font-family: 'Rock Salt', cursive;
+    margin: 0px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #316164;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #f1fbfc;
+    padding: 8px;
+    width: 600px;
+}
+
+a {
+    text-decoration: none;
+    color: #316164;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

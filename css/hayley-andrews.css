@@ -1,0 +1,39 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Comfortaa', cursive;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 1em;
+    margin: 0 auto;
+    background: #EEFABE;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.3em;
+    color: #AD6961;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 18px;
+    color: #6A91AD;
+}
+
+a {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    text-decoration: none;
+    color: #6A91AD;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

@@ -1,0 +1,56 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    padding: 1em;
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    background: #eee;
+}
+
+h4 {
+    color: maroon;
+}
+
+.advice_2{
+ animation: fadeIn linear 4s;
+  -webkit-animation: fadeIn linear 4s;
+  -moz-animation: fadeIn linear 4s;
+  -o-animation: fadeIn linear 4s;
+  -ms-animation: fadeIn linear 4s;
+}
+
+.advice_3 {
+    animation: fadeIn linear 8s;
+  -webkit-animation: fadeIn linear 8s;
+  -moz-animation: fadeIn linear 8s;
+  -o-animation: fadeIn linear 8s;
+  -ms-animation: fadeIn linear 8s;
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}

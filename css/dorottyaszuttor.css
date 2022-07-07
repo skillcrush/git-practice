@@ -1,0 +1,102 @@
+/* Found on CSS Tricks Box Sizing*/
+
+ * { 
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(171, 191, 170);
+    padding: 4 em;
+    font-family: Nanum Gothic Coding, monospace;
+}
+
+/*Found on Developer Mozilla max-width*/
+
+main {
+    border: 8px solid #faf8f6;
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+}
+
+/*https://www.w3schools.com/css/css_link.asp*/
+
+a:hover {
+    color: black;
+}
+
+a {
+    color: rgb(171, 191, 170);
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+p {
+  color: rgb(89, 89, 89) ;  
+  font-family: Nolo Sans Mono, monospace;
+  font-size: 200;
+  text-align: justify;
+}
+
+header {
+    background-color: rgb(203, 240, 201);
+    color: rgb(204, 204, 204)
+    padding: 60px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(89, 89, 89)
+    font-size: 48px ;
+    font-weight: 200;
+}
+
+h1,h4 {
+  text-align: center;  
+}
+
+h4 {
+    background-color: rgb(171, 191, 170);
+    border: 3px solid #faf8f6;
+    color: rgb(38, 38, 38);
+    font-size: 18px
+    padding: 10px 0;
+}
+
+section {
+    background-color: rgb(217, 242, 217);
+    color: rgb(89, 89, 89);
+    padding: 48px;
+}
+
+/*https://www.h3xed.com/web-development/how-to-make-a-responsive-100-width-youtube-iframe-embed*/
+
+.youtube-video {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+
+}
+
+footer p {
+    font-weight: bold;
+    padding: 10 0;
+    text-align: center;
+}
+
+
+
+
+
+
