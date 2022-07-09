@@ -1,0 +1,48 @@
+body {
+    color:#f8dad4;
+    background:#918C84;
+    font-size: 20px;
+    padding: 5px 20px 10px 20px;
+}
+
+header {
+    color: #f89483;
+}
+
+h4 {
+    color:#fab1a5;
+    text-transform:capitalize;
+}
+
+h3 {
+    color: #fca191;
+    
+}
+
+span {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 47px;
+    color: #faeae7;
+}
+
+h4 span {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+
+}
+
+i {
+    font-size: 20px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #fdd3d8;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
