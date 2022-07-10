@@ -1,0 +1,38 @@
+body {
+    background-color: lightpink;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    width: 700px;
+    margin: 30px auto;
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: hotpink;
+    border-radius: 50px;
+}
+
+.advice {
+    width: 600px;
+    margin: 30px auto;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: turquoise;
+    border-radius: 50px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+span {
+    font-style: italic;
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+}
