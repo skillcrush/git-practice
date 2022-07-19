@@ -1,0 +1,50 @@
+body {
+    margin: 20px auto;
+    padding: 25px;
+    background-image: linear-gradient(to bottom right, #13d1c6, #d1131e);
+}
+
+header a {
+    font-family: 'Arima', cursive;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background: lightgray;
+
+}
+
+header h1 {
+    font-family: 'The Nautigal', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+header h1 span {
+    font-family: 'Amatic SC', cursive;
+    font-size: 80px;
+}
+
+.advice {
+    font-family: 'Arima', cursive;
+    font-weight: bold;
+    padding: 10px 30px;
+    border: 3px solid black;
+    background: lightgray;
+}
+
+h4 {
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+footer p {
+    text-align: center;
+}
