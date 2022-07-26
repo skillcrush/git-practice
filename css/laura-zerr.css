@@ -1,0 +1,71 @@
+/***** BASE STYLES *****/
+body {
+  background: #faf5f5;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+h1 {
+  color: #003865;
+  font-family: 'Galada', cursive;
+  font-size: 3.5em;
+  margin-top: 1em;
+  text-align: center;
+}
+
+h4 {
+  color: #f16059;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.5;
+}
+
+a {
+  color: #bb433d;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+footer {
+  padding-top: 1em;
+  text-align: center;
+}
+
+/************************* ADVICE SECTION *************************/
+.advice-row {
+  margin: 100px auto 0;
+  padding-bottom: 100px;
+  text-align: left;
+  width: 75%;
+}
+
+.space-image {
+  float: left;
+  margin-right: 30px;
+  width: 50%;
+}
+
+.paths-image {
+  float: right;
+  margin-left: 30px;
+  width: 50%;
+}
+
+/************************ FOOTER SECTION ****************************/
+.icons {
+  margin-right: 20px;
+  width: 3%;
+}
+
+.copyright {
+  padding-right: 20px;
+}
