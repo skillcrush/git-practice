@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;;
+    color: #ffffff;
+    margin: 0 auto;
+    padding: 30px 60px;
+    background: #4f5e69;
+}
+
+header a {
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: lighter;
+    color: rgb(140, 196, 186);
+    padding-top: 50px;
+}
+
+h4 {
+    font-size: 30px;
+    color: rgb(140, 196, 186);
+    font-style: italic;
+    text-decoration: underline;
+    font-variant: small-caps;
+    margin-bottom: 0px;
+}
+
+footer {
+    padding-top: 30px;
+    color: #ffd700;
+    font-size: 12px;
+}
