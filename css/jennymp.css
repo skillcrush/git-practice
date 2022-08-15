@@ -1,0 +1,21 @@
+a {
+    color: teal;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+}
+
+h4 {
+    font-family: 'Slabo 13px', serif;
+    font-weight: bold;
+    color: teal;
+}
+
+p {
+    font-family: 'Slabo 13px', serif;
+}
