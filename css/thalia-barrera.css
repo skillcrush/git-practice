@@ -1,0 +1,41 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    font-family: 'Trebuchet', sans-serif;
+    color:rgb(11, 11, 60);
+    margin: 0 auto;
+    padding: 30px 60px;
+    background: rgb(171, 244, 220);
+}
+
+header a {
+    color: black;
+    font-size: 16px;
+    font-family: 'Georgia', serif;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: 'Georgia', serif;
+    text-align:center;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }
+
+h4 {
+    font-size: 22px;
+    color: coral;
+    font-family:'Trebuchet', sans-serif;
+    font-style: italic;
+}
+
+footer {
+    font-family:'Trebuchet', sans-serif;
+    color: rgba(255, 0, 111, 0.749);
+    font-size: 12px;
+    font-weight: bold;
+}
