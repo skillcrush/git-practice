@@ -1,0 +1,39 @@
+/***** BASE STYLES *****/
+
+body {
+
+    background: rgb(197, 216, 236);
+}
+
+h1 {
+    font-size: 3em;
+    font-family: anton;
+    color: red;
+    text-align: center;
+    margin-top: 1em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-bottom: 1em;
+    border: 6px solid rgb(18, 8, 217);
+}
+
+h4 {
+    font-size: 1.5em;
+    font-family: anton;
+    text-decoration: underline;
+    font-weight: bold;
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border:1em dashed rgb(18, 8, 217)
+   
+}
