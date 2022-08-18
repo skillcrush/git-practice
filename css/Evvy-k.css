@@ -1,0 +1,32 @@
+/***** BASE STYLES *****/
+
+body {
+    color: #222;
+    background: #333648;
+    font: 100% system-ui;
+  }
+
+h1 {
+    font-family: 'Uchen', serif;
+    text-align: center;
+    color: #FFB6C1;
+}
+
+h4,a {
+    color:#9FC6AD;
+    font-family: 'Nunito', sans-serif;
+}
+
+p {
+    color: beige;
+    padding: 0 20px;
+}
+
+footer p {
+    transition: transform 2s ease-in-out 0.5s;
+    color: #FFB6C1;
+  }
+  
+  footer p:hover {
+      transform: scaleX(-1)
+  }
