@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+    margin: 0 auto;
+    background-color:#2dc2ac;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    color: white;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f2e3de;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color:#f2e3de;
+}
+
+footer {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-top: 1em;
+    color: #e08e78;
+}
