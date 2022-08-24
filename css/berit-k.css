@@ -1,0 +1,66 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 1200px;
+}
+
+header a {
+    background-color: lightgray; 
+    border: 1px solid blue;
+    border-radius: 20px;
+    color: blue;
+    font-size: 10px;
+    padding: 5px;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+h1 {
+    background-color: orange;
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 50px;
+    padding-left: 10px;
+    text-align: left;
+}
+
+span {
+    font-style: normal;
+}
+
+h4 {
+    color: red;
+    font-family: 'Creepster', cursive;
+    font-size: 80px;
+    margin-top: 20px;
+    text-align: center; 
+}
+
+.advice p {
+    font-size: 20px;
+    margin-top: -70px;
+    padding: 0 250px 30px 250px;
+    text-align: justify;
+}
+
+div #giphy {
+    float: left;
+    padding-left: 360px;
+}
+
+.cheer p {
+    clear: both;
+    padding-top: 30px;
+    text-align: center;
+}
+
+footer p {
+    background-color: orange;
+    font-size: 14px;
+    text-align: center;
+}
