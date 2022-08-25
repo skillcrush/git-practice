@@ -1,0 +1,84 @@
+
+body {
+    width: 1200px;
+    margin: 20px auto;
+    padding: 25px;
+    background: rgb(21, 111, 143);
+    
+}
+
+h1 {
+    text-align: center;
+    color: darkgoldenrod;
+
+}
+
+h4 {
+    text-align: left;
+    color: aliceblue;
+}
+
+.advice p {
+    text-align: justify;
+    color: darkgoldenrod;
+}
+
+
+
+.boxone {
+    box-sizing: border-box;
+    height: 300px;
+    width: 400px;
+    float: right;
+    border: 5px dotted pink;
+    margin: 20px;
+    padding: 10px;
+    
+
+
+}
+
+.boxtwo {
+    box-sizing: border-box;
+    height: 350px;
+    width: 400px;
+    border: 5px dotted pink;
+    margin: 20px;
+    padding: 10px;
+    
+    
+    
+}
+
+.boxthree {
+    box-sizing: border-box;
+    height: 300px;
+    width: 400px;
+    float: left;
+    border: 5px dotted pink;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.boxfour {
+    float: right;
+    border: 5px dotted pink;
+    margin: 20px;
+    padding: 10px;
+    
+    
+}
+
+footer  {
+    text-align: center;
+    color: bisque;
+    border: 5px dotted pink;
+    box-sizing: border-box;
+    clear: both;
+    margin: 10px;
+    padding: 10px;
+    
+    
+
+
+}
