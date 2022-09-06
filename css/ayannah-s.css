@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: purple;
+    font-size: 20px;
+    margin: 0 auto;
+    color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+    padding: 30px 60px;
+}
+h1 {
+    font-size: 32px;
+    font-family: 'EB Garamond', serif;
+    text-decoration: underline;
+    color: azure;
+    padding-top: 50px; 
+}
+h4 {
+    font-size: 22px;
+    color: #8dabb7;
+    font-style: oblique;
+}
+footer {
+    color: #8cb0cc;
+    font-size: 12px;
+}
