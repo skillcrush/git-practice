@@ -1,0 +1,35 @@
+body {
+    background: #ebebeb;
+    font-size: 16px;
+    padding-left: 20px;
+}
+header {
+    border-bottom: 5px solid;
+    border-image: linear-gradient(90deg, #45c3b8, #808080, #60affe) 1;
+}
+a {
+    color: #808080;
+}
+h1 {
+    color: #45c3b8;
+    font-size: 2em;
+    text-shadow: 1px 1px #808080;
+}
+section {
+    border: 2px dashed #808080;
+    margin: 10px 0 10px 0;
+    padding: 0 10px 0 10px;
+}
+h4 {
+    color: #60affe;
+    font-size: 1.25em;
+    text-shadow: 1px 1px #808080;
+}
+p {
+    color: #808080;
+    font-size: 1em;
+}
+footer {
+    border-top: 5px solid;
+    border-image: linear-gradient(90deg, #45c3b8, #808080, #60affe) 1;
+}
