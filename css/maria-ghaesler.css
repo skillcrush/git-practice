@@ -1,0 +1,38 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: url(https://img.freepik.com/premium-vector/abstract-gray-white-geometric-hexagons-background_78474-287.jpg?w=2000) repeat darkblue;
+}
+
+h1 {
+    font-family: 'Noto Serif Georgian', serif;
+    font-weight: 700;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: 500;
+    color: lightcoral;
+    text-align: center;
+    text-decoration: underline solid;
+}
+
+p {
+    font-family: 'Noto Serif Georgian', serif;
+    font-weight: 300;
+}
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

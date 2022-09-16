@@ -1,0 +1,55 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: o auto;
+    background: #abd7eb;
+    font-family: Georgia;
+}
+
+h1 {
+    font-size: 2.25em;
+    margin-top: 1em;
+    text-align: center;
+    color: #3a243b;
+}
+
+h2 {
+    font-size: 2.25em;
+    text-align: center;
+    color: #3a243b;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    color: #3a243b;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #3a243b;
+    margin-left: 100px;
+}
+
+p {
+  color: #3a243b;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+a {
+    text-decoration: none;
+    color: #3a243b;
+}
+
+.cheering_gif {
+  text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
