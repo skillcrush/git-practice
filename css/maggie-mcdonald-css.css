@@ -1,0 +1,39 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    margin: 50;
+    background: #ddfbd2;
+    display: inline-block;
+
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 2.25em;
+    color: #320e3b;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #320e3b;
+}
+
+.advice {
+    text-decoration: none;
+    color: #320e3b;
+    outline: 5px solid #6B7FD7
+}
+
+a {
+    text-decoration: none;
+    color: #320e3b;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
