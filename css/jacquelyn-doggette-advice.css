@@ -1,0 +1,38 @@
+/**** BASE STYLES ****/
+
+body {
+    background: #FFFAF0;
+    color: #6a793e;
+    font-family: 'Lora', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/**** BODY STYLES ****/
+
+div {
+    margin: auto;
+    overflow: auto;
+    padding: 40px;
+    width: 1000px;
+}
+
+h1 {
+text-align: center;
+}
+
+span {
+    color: #bb6b25;
+}
+
+h2 {
+    color: #bb6b25;
+}
+
+p {
+    color: #344620;
+}
+
+#copyright {
+    text-align: center;
+}
