@@ -1,0 +1,87 @@
+/* ---------------------------------------- BODY ---------------------------------------- */
+
+body {
+
+    background: url("https://cdn02.plentymarkets.com/vji7b8phcm0f/item/images/108254/full/Casa-Padrino-Luxus-Barock-Chesterfield-Sofa-Hellblau---Antik-Gold-300-x-90-x-H--119-cm-Prunkvolles-Barock-Wohnzimmer-Sofa-Barockmoebel-108254_4.jpg");
+    background-size: cover;
+    color: #342314;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+
+/* ---------------------------------------- GRID ---------------------------------------- */
+
+.advice {
+
+    margin: auto;
+    overflow: auto;
+    width: 1200px;
+
+}
+.tile {
+
+    background: #cdb3a1;
+    border-radius: 10px;
+    box-sizing: border-box;
+    float: left;
+    height: 770px;
+    margin: 20px;
+    padding: 20px;
+    width: 360px;
+}
+
+/* ---------------------------------------- HEADER ---------------------------------------- */
+
+header {
+
+    background: #bc7789;
+    border-radius: 10px;
+    padding-bottom: 24px;
+
+}
+
+
+h1 {
+
+    font-family: "Kaushan Script", cursive;
+    font-size: 40px;
+    margin: 0px;
+    text-align: center;
+
+}
+
+header a {
+
+    margin: 10px;
+    text-decoration: none;
+
+}
+
+
+/* ---------------------------------------- ADVICE ---------------------------------------- */
+
+
+h4 {
+
+    font-family: "Martel", serif;
+    font-size: 30px;
+}
+
+.emoji {
+
+    display: block;
+    font-size: 100px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+
+footer {
+
+    clear: both;
+    text-align: center;
+
+}

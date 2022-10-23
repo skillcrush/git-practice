@@ -1,0 +1,29 @@
+body {
+    color:lightsalmon;
+    background-color:lightgray;
+    font-family: 'Lora';
+    text-align: center;
+  }
+  
+  h1 {
+    border:double;
+    font-size: 48px;
+  }
+  a {
+    color: #302112;
+    font-weight: bold;
+  }
+  .advice a {
+    font-size: 8px;
+  }
+  h4 {
+    font-size: 30px;
+    text-decoration: underline;
+  }
+  .advice p {
+    font-size: 20px;
+  }
+  footer {
+    font-weight: bold;
+    font-size: 16px;
+  }

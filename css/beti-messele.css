@@ -1,0 +1,64 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding: 1em;
+    margin: 0 20px;
+    background: #faf5f5;
+
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 31px;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 21px;
+    color: #f16059;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+    border: 1px solid #f16059;
+    padding: 10px;
+}
+
+header span {
+
+    color: #f16059;
+}
+
+.advice
+
+{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.advice span {
+
+    color: #f16059;
+    text-variant: small-caps;
+    text-transform: uppercase;
+}
+p {
+
+    width: 600px;
+    line-height: 1.5;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

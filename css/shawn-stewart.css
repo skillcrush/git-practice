@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    color: hsl(193, 97%, 15%);
+    font-size: 20px;
+    font-family: 'Cormorant Garamond', serif ;
+    padding: 100px;
+    margin: 0 auto;
+    background: #ffe6f2;
+}
+
+h1 {
+    font-size: 2em;
+    /**font-family: 'Great Vibes';**/
+    color: #004a5f;
+    margin-top: 1em;
+}
+span, footer{
+    font-family: 'Great Vibes';
+}
+span {
+    font-weight: lighter;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #01556d;
+}
+
+p {
+    padding-top: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #007190;
+    font-weight: bolder;
+    font-family: 'Lobster' ;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em; 
+    
+}

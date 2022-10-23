@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    padding: 50px;
+    margin: 0 auto;
+    background: rgb(216, 188, 247);
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Lobster', cursive;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #7345c9;
+}
+
+a {
+    text-decoration: none;
+    color: #7345c9;
+}
+
+footer {
+    background: violet;
+    text-align: center;
+}

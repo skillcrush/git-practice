@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Cormorant', serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+h1 {
+    font-family: 'Passions Conflict', cursive;
+    font-size: 4em;
+    color: rgb(118, 96, 123);
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Cormorant', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #8865a4;
+}
+
+a {
+    text-decoration: none;
+    color: #8865a4;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

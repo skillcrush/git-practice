@@ -1,0 +1,60 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Hubballi', cursive;
+    font-size: 20px;
+    padding: 1em;
+    margin: 0 auto;
+    background:#B0C4DE;   
+}
+
+h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #8B0000;
+}
+
+/***** GRID *****/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.half-width {
+    width: 600px;
+    float: left;
+}
+/***** HEADER SECTION *****/
+
+header {
+    height: 400px;
+    margin-bottom: 150px;
+}
+
+header a{
+    text-decoration: none;
+    color: #bb433d;
+}
+
+header h1 {
+    width:1000px;
+    clear: both;
+    font-size: 72px;
+    line-height:80px;
+    color: #00008B; 
+    padding: 150px 0 20px 25px;
+    text-align: justify;
+    font-family: 'Hurricane', cursive;
+}
+
+/***** FOOTER SECTION *****/
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    line-height: 40px;
+
+}
+

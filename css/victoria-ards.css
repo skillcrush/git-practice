@@ -1,0 +1,13 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Oxygen', sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    border-top: black 1px solid;
+}

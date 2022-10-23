@@ -1,0 +1,61 @@
+/***** BASE STYLES *****/
+/**** * {
+    border: 2px solid black;
+} ****/
+body {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1em;
+    margin: 0 auto;
+    background: turquoise;
+}
+header {
+    overflow: hidden;
+    display: inline-block;
+    width: 100%;
+    clear: both;
+}
+a {
+    float: right;
+    margin-top: 4em;
+    margin-right: 10px;
+}
+a:hover {
+    color: white;
+}
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    width: 75%;
+    float: left;
+    margin-left: 1em;
+    text-align: right;
+}
+.advice-col {
+    float: left;
+    width: 45%;
+    margin: 2px;
+    padding: 2em;
+    max-height: fit-content;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    clear: both;
+}
+
+img {
+    width: 40%;
+}

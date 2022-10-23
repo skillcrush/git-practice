@@ -1,0 +1,52 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Kodchasan', sans-serif;
+    font-size: 16px;
+    color: #e6e6e6;
+    padding: 1em;
+    margin: 0 auto;
+    background: linear-gradient( 90deg,#262626, #4d4d4d, #262626);
+    height: 100vh;
+}
+
+section {
+    background: #000;
+    border: 0.15em solid #e6e6e6;
+    padding: 0 32px 15px 32px;
+}
+
+h1 {
+    font-family: 'Audiowide', cursive;
+    font-size: 2.25em;
+    color: #e6e6e6;
+    margin-top: 1em;
+}
+
+h1 span {
+    font-family: 'Rock Salt', cursive;
+    font-size: 0.8em;
+    color: #7df9ff;
+}
+
+h4 {
+    font-family: 'Kodchasan', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #cc0052;
+}
+
+a {
+    text-decoration: none;
+    color: #cc0052;
+}
+
+a:hover {
+    color: #7df9ff;
+}
+
+footer {
+    color: #1a1a1a;
+    text-align: center;
+    padding-top: 1em;
+}

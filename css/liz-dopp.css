@@ -1,0 +1,44 @@
+/***** BASE STYLES *****/
+
+body {
+	font-size: 16px;
+	width: 1200px;
+	padding: 1em;
+	margin: 0 auto;
+	background: lightblue;
+}
+
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 2.25em;
+	color: #333;
+	text-align: center;
+	margin: 1.5em;
+}
+
+h4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: darkslateblue;
+	padding-top: 1em;
+}
+
+p {
+	font: 1em Arial, sans-serif;
+	line-height: 1.5em;
+}
+
+em {
+	color: indigo;
+}
+
+a {
+	text-decoration: none;
+	color: maroon;
+}
+
+footer {
+	text-align: center;
+	padding-top: 1em;
+}
