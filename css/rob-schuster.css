@@ -1,0 +1,102 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+header {
+      background: #b1bf97;
+      border: 1px solid #b1bf97;
+      border-radius: 10px;
+      text-align: center;
+      padding: 8px;
+}
+
+header p {
+      color: #fff;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #fff;
+    margin-top: 1em;
+    border: 2px solid #9597bf;
+    border-radius: 10px;
+    padding: 3px 0;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+h3 {
+      background: #97b1bf;
+      font-size: 1.5em;
+      font-weight: bold;
+      color: #fff;
+      padding: 1em;
+      border: 2px #97b1bf;
+      border-radius: 10px;
+      margin: 8px;
+      text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #333366;
+}
+
+footer {
+    background: #9597bf;
+    text-align: center;
+    padding: .5em .5em;
+    border: 1px #9597bf;
+    border-radius: 10px;
+}
+
+.advice {
+      background: #bfa597;
+      border: 1px #b7b1bf;
+      border-radius: 10px;
+      padding: 8px;
+      margin: 8px 10px;
+      font-size: 1.2em;
+      color: #fff;
+      width: 47%;
+      float: left;
+      align-items: center;
+}
+
+.advice h2 {
+      background: #fff;
+      color: #9597bf;
+      border-radius: 10px;
+      border: 3px #9597bf;
+      padding: 3px;
+      text-align: center;
+}
+
+.robs-advice {
+      background: #b7b1bf;
+      padding: 8px;
+}
+
+.focus {
+      background: #fff;
+      color: #9597bf;
+      border: 3px solid #9597bf;
+      border-radius: 10px;
+      padding: 8px;
+      text-align: center;
+      margin: 8px 0;
+      clear:both;
+}
+
+.focus p {
+      font-size: 1.1em;
+}
