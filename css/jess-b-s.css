@@ -1,0 +1,24 @@
+/***base styles***/
+
+
+body {
+    background: darkslategray;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    color: lightseagreen;
+    padding: 100 20;
+}
+h1 {
+    font-size: 45px;
+    font-family: 'Poiret One', cursive;
+    color: bisque;
+}
+h4 {
+    font-size: 30px;
+    font-family: 'Poiret One', cursive;
+    color: bisque;
+    text-decoration: underline;
+
+}
