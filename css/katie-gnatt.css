@@ -1,0 +1,51 @@
+/***** BASE STYLES *****/
+
+body {
+    padding: 1em;
+    margin: 0 auto;
+    background: #EAE7EC;
+}
+
+a {
+    color: #242F3A;
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+}
+
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 56px;
+    color: #254869;
+    margin-top: 1em;
+}
+
+h2 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 30px;
+    color: #254869;
+}
+
+h4 {
+    font-family: 'Trirong', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #242F3A;
+}
+
+p {
+    color: #242F3A;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+}
+
+span {
+    color: #254869;
+    font-family: 'Trirong', sans-serif;
+    font-size: 16px;
+}
+
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
