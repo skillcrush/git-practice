@@ -1,0 +1,35 @@
+.skillcrush-advice {
+    background: pink
+}
+
+header {
+    font-family: "Work Sans", sans-serif;
+}
+
+header h1 {
+    font-family: "Shadows into light", cursive;
+    width: 1200px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.advice {
+    width: 1000px;
+    font-family: "Work Sans", sans-serif;
+    margin-left: 125px;
+}
+
+.advice h4 {
+    font-size: 35px;
+    font-family: "Shadows into Light", cursive;
+}
+
+.advice li {
+    font-size: 20px;
+    line-height: 25px;
+    margin: 25px 0;
+}
+
+footer {
+    font-family: "Work Sans", sans-serif;
+}
