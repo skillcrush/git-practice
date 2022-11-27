@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #99ddff;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: rgb(21, 21, 21);
+    margin-top: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #004068;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: #006bae;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 12px;
+}
+
+p {
+    font-family: Arial, Helvetica;
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
