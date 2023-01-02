@@ -1,0 +1,31 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #b68787;
+}
+
+h1 {
+    font-size: 48px;
+    color: rgb(12, 10, 10);
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #f04940;
+}
+
+a {
+    text-decoration: none;
+    color: #772b27;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
