@@ -1,0 +1,27 @@
+body {
+    background-color: turquoise;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+    font-family: 'Comic Neue', cursive;
+}
+
+h4 {
+    text-align: center;
+    font-size: 30px;
+    color: purple;
+}
+
+p {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+}
