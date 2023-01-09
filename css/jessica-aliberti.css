@@ -1,0 +1,34 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #F7F3F9;
+    font-family: 'Amiri', Helvetica, Arial, serif;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #5A2971;
+    margin-top: 1em;
+    font-style: italic;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #625192;
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+    color: #8B2E5F;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
