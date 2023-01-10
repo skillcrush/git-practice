@@ -1,0 +1,44 @@
+body {
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    background: url('../../git-practice-img/background.jpg') no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+header {
+    margin: 20px;
+    text-align: right;
+    font-variant: small-caps;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+    font-weight: bold;
+    Text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.advice {
+    margin: 40px 80px;
+    padding: 10px;
+    background: rgba(248, 249, 249, 0.6);
+    border: 1px solid grey;
+    border-radius: 20px;
+}
+
+h4 {
+    font-variant: small-caps;
+    font-size: 30px;
+}
+
+p {
+    padding: 5px;
+}
+
+footer {
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+}
