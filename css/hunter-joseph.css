@@ -1,0 +1,38 @@
+/***** BASE STYLES *****/
+
+html {
+    border: 40px solid rgba(49, 157, 62, 0.828);
+    border-style: inset;
+}
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #b6d9dee8;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #0379058e;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
