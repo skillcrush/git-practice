@@ -1,0 +1,61 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Unbounded', cursive;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #eaadf7;
+    width:1500px;
+}
+
+h1 {
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 50px;
+    color: #333;
+    margin-top: 1em;
+    text-decoration:underline;
+    margin-left:50px;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color:#A10808;
+}
+
+a {
+    text-decoration: none;
+    color:#A10808;
+}
+
+p {
+    text-align:center;
+}
+
+.paragraph-one,
+.paragraph-two {
+    float:left;
+    width:700px;
+}
+
+.paragraph-one {
+    margin-right:35px;
+}
+
+.paragraph-two {
+    border-left:2px dotted #A10808;
+    padding-left:25px;
+    margin-left:0px;
+}
+
+strong {
+    color:darkblue;
+    text-decoration:underline;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    clear:both;
+}
