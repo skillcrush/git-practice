@@ -1,0 +1,75 @@
+#quang-advice{
+    margin: 2rem 0;
+    font-size: 1rem;
+    padding: .1rem;
+    border: .1rem solid black;
+    border-radius: .2rem;
+    font-weight: 900;
+}
+
+#quang-advice i{
+    margin-left: .3rem;
+}
+#quang-advice:hover{
+    background: purple;
+    color: orange;
+    cursor: pointer;
+}
+/*Universal Styles*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: aliceblue;
+    background-color: black;
+}
+
+/*Global STyles*/
+
+/*Header*/
+header {
+    background-color: rgb(0, 0, 0);
+}
+header h1{
+    text-align: center;
+    font-size: 4rem;
+}
+/*Main*/
+.flex-box {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.flex-box .text-wrapper{
+    padding: 2rem;
+}
+.flex-box .text-wrapper h4{
+    padding-left: 1rem;
+    margin-bottom: 2rem;
+    font-size: 3rem;
+    border-top: .1rem solid white;
+    border-bottom: .1rem solid white;
+}
+.flex-box .text-wrapper p{
+    margin-bottom: .7rem;
+    font-size: 2rem;
+}
+/*footer*/
+
+footer{
+    margin-top: 2rem;
+    padding: 2rem;    
+    border-top: .1rem solid white;
+    border-bottom: .1rem solid white;
+}
+footer p{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/**/
+
+/**/
+
+/**/
