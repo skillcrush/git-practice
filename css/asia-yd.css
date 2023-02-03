@@ -1,0 +1,40 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: #6e6e6e;
+    margin: 0 auto;
+    padding: 30px 60px;
+    background: #f7def3
+        ;
+}
+
+header a {
+    color: rgb(240, 19, 130);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Tahoma', serif;
+    font-variant: small-caps
+    color: rgb(241, 165, 207);
+    padding-top: 50px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 22px;
+    color: blue;
+    font-style: italic;
+}
+
+#ashley {
+    text-align: center;
+}
+
+footer {
+    color: rgb(240, 19, 130);
+    font-size: 12px;
+    text-align: center;
+}

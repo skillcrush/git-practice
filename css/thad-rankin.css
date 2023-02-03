@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 21px;
+    font-family: 'crimson text', sans-serif;
+    font-weight: bold;
+    padding: 1em;
+    margin: 0 auto;
+    background: #999999;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+    margin-top: 1em;
+    font-family: 'kavoon', sans-serif;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: bold;
+    color: lightgoldenrodyellow;
+    font-family: 'kavoon', sans-serif;
+    outline-style: double;
+    outline-color: aqua;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
