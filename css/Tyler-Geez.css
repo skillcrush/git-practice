@@ -1,0 +1,15 @@
+main.css
+
+/****** BASE STYLES ******/
+
+body {
+    font-size: 24px;
+    max-width: 1200px;
+    color: lightseagreen;
+}
+
+h1 {
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
