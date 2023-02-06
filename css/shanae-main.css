@@ -1,0 +1,36 @@
+
+
+
+
+
+header {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(87, 137, 186);
+    text-align: center;
+    text-decoration: double;
+    font-size: 35px;
+    
+
+}
+
+body {
+
+    background: lavenderblush;
+}
+
+p {
+
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight:bold;
+    
+}
+
+h4 {
+
+    text-align: center;
+    color: darkslateblue;
+    font-size:30px;
+}
