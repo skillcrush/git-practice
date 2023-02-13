@@ -1,0 +1,52 @@
+body {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px;
+    margin: 0 auto;
+    background: #cee9fd;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: 'Amatic SC', cursive;
+    color: rgba(98, 5, 103, 0.832);
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 36px;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    color: rgba(98, 5, 103, 0.723);
+    line-height: 20px;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(98, 5, 103, 0.755);
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.advice{
+    padding: 0 20px;
+}
+
+.confusion {
+    float: left;
+}
+
+.disbelief {
+    float: left;
+}
+
+footer {
+    clear: both;
+}

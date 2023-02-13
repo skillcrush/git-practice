@@ -1,0 +1,30 @@
+body {
+background-color: #FAEBD7;
+color: #800000;
+font-family: 'Sofia Sans', sans-serif;
+
+}
+
+h1 {
+text-align: center;
+font-size: 40px;
+font-weight: 400px;
+font-style: italic;
+}
+
+h4 {
+color: #A0522D;
+font-size:30px;
+padding-left:10px;
+}
+
+section p {
+padding-left:25px;
+text-indent:10px;
+width:fit-content
+}
+
+footer {
+text-align: center;
+margin-top:80px;
+}
