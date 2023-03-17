@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #48D1CC;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 16px;
+
+}
+
+h1 {
+    color: darkblue;
+    font-family: Zeyada;
+    font-size: 60px;
+    width: 90%;
+    max-width: 900px;
+    text-align: center;
+    -webkit-text-stroke: .05px #C71585;
+}
+
+ h4 {
+    color: #C71585;
+    font-family: 'Zeyada', cursive;
+    font-size: 2.5em;
+    text-decoration: underline;
+    text-decoration-color: darkblue;
+    width: 100%;
+}
+
+ p {
+    color:darkblue;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.75;
+    width: 100%;
+}
+
+p, h4 {
+    margin: 0px;
+    padding: 0px;
+  }
+
+.highlight {
+    color: #C71585;
+}
+
+@media screen and (min-width: 760px) {
+    .greeting {
+        font-size: 1.5em;
+    }
+}
