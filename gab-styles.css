@@ -1,0 +1,13 @@
+/***** BASE STYLES *****/
+
+body {
+    background: #ebd4ff;
+    font-size: 16px;
+    margin: 0 auto;
+    color: #5f0d6e;
+}
+
+h1 {
+    font-size: 23px;
+    color: #1a1e69;
+}
