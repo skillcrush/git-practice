@@ -1,0 +1,38 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #85ac94;
+}
+
+h1 {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #654241;
+    font-style:normal
+}
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: underline;
+    color: #805755;
+    font-weight: bold;
+    
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

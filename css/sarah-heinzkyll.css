@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    font-family: 'Georgia';
+    color: #ffffff;
+    margin: 0 auto;
+    padding: 30px 60px;
+    background: rgb(97, 232, 236);
+}
+
+header a {
+    color: #aa00c0;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: 'EB Garamond', serif;
+    text-decoration: underline;
+    color: #dc03f8;
+    padding-top: 30px;
+}
+
+h4 {
+    font-size: 22px;
+    color:#d305ee;
+    font-style: italic;
+}
+
+footer {
+    color: #0407bb;
+    font-size: 12px;
+}
