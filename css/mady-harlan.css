@@ -1,0 +1,60 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Nuninto-Sans', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.25em;
+    color: rgb(92, 21, 21);
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Crimson Text', serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f16059;
+    text-transform: uppercase;
+    margin-top: 45px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Nuninto-Sans', sans-serif;
+    padding-top: 1em;
+}
+
+.full-width {
+    width: 1200px;
+    overflow: auto;
+}
+
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+.half-width img {
+    width: 550px;
+    border: 5px solid #ff8983;
+}
+
+#taylor-quote {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+    color: rgb(92, 21, 21);
+    line-height: 35px;
+    text-align: center;
+    margin-top: 75px;
+}

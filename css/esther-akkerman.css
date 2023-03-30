@@ -16,12 +16,12 @@ h1 {
 h4 {
     font-size: 1.5em;
     font-weight: bold;
-    color: #f16059;
+    color: green;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: green;
 }
 
 footer {

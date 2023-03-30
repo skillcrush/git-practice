@@ -4,24 +4,28 @@ body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: #F7F3F9;
+    font-family: 'Amiri', Helvetica, Arial, serif;
 }
 
 h1 {
     font-size: 2.25em;
-    color: #333;
+    color: #5A2971;
     margin-top: 1em;
+    font-style: italic;
+    text-align: center;
 }
 
 h4 {
     font-size: 1.5em;
     font-weight: bold;
-    color: #f16059;
+    color: #625192;
+    text-align: center;
 }
 
 a {
-    text-decoration: none;
-    color: #bb433d;
+    text-decoration: underline;
+    color: #8B2E5F;
 }
 
 footer {

@@ -1,0 +1,117 @@
+body {
+
+    background-color: var(--blue);
+    margin: 80px auto 63px auto;
+    width: 950px;
+    font: 16px/20px 'Overpass Mono', monospace;
+    color: var(--blackish);
+
+}
+
+a {
+
+    color: var(--blackish);
+
+}
+
+.black {
+
+    background-color: var(--blackish);    
+    color: var(--blue);
+    padding: 20px;
+
+}
+
+.black, .lyrics {
+
+    border-radius: 4px;
+
+}
+
+.black p {
+
+    margin: 0;
+
+}
+
+section.black a {
+
+    color: var(--blue);
+
+}
+
+section.black {
+
+    margin-bottom: 72px;
+
+}
+
+header a {
+
+    color: var(--green);
+
+}
+
+h1 {
+
+    font: 300 72px/91px 'Bellota', cursive;
+    margin: 41px 0 48px;
+
+}
+
+.advice {
+
+   overflow: auto;
+
+}
+
+h2 {
+
+    font: 700 29px/36px 'Bellota', cursive;
+    margin: 0 0 64px;
+
+}
+
+.advice p {
+
+    margin: 20px 0;
+
+}
+
+.advice p:last-child {
+
+    margin-bottom: 95px;
+
+}
+
+section {
+
+    overflow: auto;
+
+}
+
+.announcement p {
+
+    margin: 0 0 47px;
+    line-height: 25px;
+    
+}
+
+.lyrics {
+
+    background-color: var(--pink);
+    padding: 26px 0 29px 20px;
+    margin-bottom: 45px;
+
+}
+
+.lyrics h2 {
+
+    margin-bottom: 68px;
+}
+
+.lyrics p {
+
+    margin: 0;
+
+}
