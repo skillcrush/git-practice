@@ -1,0 +1,47 @@
+*****Global styles*****
+
+body {
+    font-family: 'Source Code Pro', serif;
+    font-size: 18px;
+}
+
+
+h1 {
+    font-size: 32px;
+    color: black;
+    margin-left: 50px;
+    font-family: 'Source Code Pro', serif;
+text-align: center;
+}
+
+.Georgiana-advice {
+width: 1200px;
+background: rgb(240, 218, 240);
+}
+
+.advice {
+    width: 1000px;
+    margin-left: 200px;
+}
+h4 {
+    font-size: 25px;
+    font-family: 'Courgette';
+    font-weight: bold;
+    color: #1d1469;
+}
+
+a {
+    text-decoration: none;
+    color:blue;
+}
+
+p {
+    font-family: 'Source Code Pro', serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 25px;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+}
