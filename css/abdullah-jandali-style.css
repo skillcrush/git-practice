@@ -1,0 +1,29 @@
+body{
+	background-image: url('https://64.media.tumblr.com/642fb4aebaa7816772d1d65581bbe39e/tumblr_n41v6caQ1h1txse80o1_500.gif');
+	background-size: cover;
+	height: 100vh;
+}
+
+h1{
+	border: 2px solid white;
+	background: black;
+	color: white;
+	padding: 10px 20px;
+}
+
+h4{
+	border: 2px solid white;
+	background: black;
+	color: #ffffaa;
+	padding: 10px 20px;
+	width: 200px;
+	margin-bottom: 0;
+}
+
+p{
+	border: 2px solid white;
+	background: black;
+	color: white;
+	padding: 10px 20px;
+	margin-top: 0;
+}
