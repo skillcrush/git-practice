@@ -1,0 +1,45 @@
+body {
+    background-color: #c7ebf8;
+    color: #272b2e;
+    font-family: 'arial', sans-serif;
+    margin: 0 auto;
+    width: 940px;
+    text-align: justify;
+}
+
+header {
+    color: #035d84;
+    font-size: 24px;
+}
+
+h1 {
+    margin: 40px;
+    font-family: 'papyrus', sans-serif;
+    text-align: center;
+}
+
+.advice h4 {
+    font-family: 'papyrus', sans-serif;
+    color:#7f5793;
+    font-size: 26px;
+    font-variant: small-caps;
+    padding-left: 25px;
+}
+
+p {
+    padding: 10px 25px 10px 25px;
+    
+}
+
+header a {
+    text-align: left;
+    font-size: 14px;
+    color: #727073;
+    font-family: 'arial', sans-serif;
+}
+
+footer {
+    padding: 20px;
+    color: #727073;
+    text-align: center;
+}
