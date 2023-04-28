@@ -1,0 +1,55 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    padding: 1em;
+    margin: 0 auto;
+    background: wheat;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: rgb(23, 161, 85);
+    margin-top: 50px;
+    text-decoration: overline;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: darkred;
+    text-decoration: overline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.advice-one {
+    border: 5px dotted black;
+    padding: 10px;
+    width: 600px;
+    float: left;
+    height: 200px;
+}
+
+.advice-two {
+    border: 5px dotted black;
+    padding: 10px;
+    margin-left: 20px;
+    width: 600px;
+    float: left;
+    height: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+    text-align: justify;
+    font-size: 18px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    clear: both;
+}

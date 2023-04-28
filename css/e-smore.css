@@ -1,0 +1,42 @@
+/****** global styles *******/
+
+body {
+    background-color: #490467;
+    font-size: 17px;
+    color: #E7D8EE;
+    font-family: 'Nanum Gothic Coding', monospace;
+    line-height: 25px;
+    letter-spacing: .4px;
+}
+
+header a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #F8AFE7;
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: #C8F4F4;
+    padding: 15px 10px;
+    margin: 30px;
+} 
+
+.puppy {
+     text-align: center;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+footer {
+    padding-top: 90px;
+    text-align: center;
+    color: #C8F4F4;
+}
