@@ -1,0 +1,71 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #eecbee;
+    font-family: 'Ysabeau', sans-serif;
+    font-weight: 500;
+    width: 1000px;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    font-family: 'Yatra One', cursive;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #330975;
+    font-family: 'Yatra One', cursive;
+
+}
+
+p {
+    line-height: 26px;
+}
+
+span {
+    
+    font-style: italic;
+    font-weight: 700;
+    
+}
+
+#confused-man {
+    width: 350px;
+    float: right;
+    margin-left: 40px;
+    border: solid 1px #330975;
+}
+
+#suspended {
+    margin-top: 80px;
+}
+
+#Perseverance-quote {
+    width: 330px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 50px;
+    border: solid 1px #330975;
+
+}
+
+#personal-paragraph {
+    padding-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

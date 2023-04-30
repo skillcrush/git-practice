@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 20px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #ae5fba;
+    color: #ffff;
+
+}
+
+h1 {
+    font-size: 2.25em;
+    color: rgb(98, 212, 146);
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(58, 25, 159);
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+   
+    
+}
+
+a {
+    text-decoration: underline;
+    color: #f0be49;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.confusion {
+    border: #f0be49 solid 1px;
+    padding: 10px;
+}
+
+.disbelief {
+    border: #f0be49 solid 1px;
+}
