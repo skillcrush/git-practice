@@ -1,0 +1,79 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+    color: #565249;
+    background: #f1f1f0;
+    font-family: 'chippewa-falls', sans-serif;
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    line-height: 35px;
+}
+
+header {
+    background:#b88b28;
+    color:#f1f1f0;
+}
+
+h1 {
+    display: inline-block;
+    text-align: right;
+    width: 900px;
+    font-size: 25px;
+    
+}
+
+header a {
+    font-size: 36px;
+    text-decoration: none;
+    color: #f1f1f0;
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+h2 {
+   font-size: 48px; 
+   text-align: center;
+}
+
+h2 span {
+    color: #b88b28;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+.author {
+    font-size: 36px;
+}
+
+
+.advice .list-one .onetwo{
+    width: 500px;
+    float: left;
+    padding: 0px 50px 50px 50px;
+    text-align: center;
+    
+}
+
+.advice .three {
+   width: 1000px;
+   text-align: center;
+   margin: 75px;
+   clear: both;
+   border-top:#565249 solid 1px;
+   box-sizing: border-box;
+  
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+h3 span {
+    color:#b88b28;
+}
