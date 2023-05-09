@@ -1,0 +1,87 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: Calibri;
+    font-size: 18px;
+    padding: 1em;
+    background: #f4f7f4;
+    text-align: left;
+    
+}
+header {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    width: 1200px;
+    margin: 0 auto;
+}
+footer {
+    width: 1200px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 50px;
+    color: #4d3c59;
+    margin-top: 1em;
+}
+h2 {
+    text-align: center;
+    font-size: 35px;
+}
+h3 {
+    font-size: 25px;
+    color: #4d3c59;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+.learning {
+    margin: 0 auto;
+}
+
+#active-recall {
+    width: 590px;
+    float: left;
+    padding: 0 20px 10px 20px;
+    box-sizing: border-box;
+    background: #d8cede;
+    border:5px solid #433a44;
+    margin-right: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+#spaced-repetition {
+    width: 590px;
+    float: left;
+    padding: 0 20px 10px 20px;
+    box-sizing: border-box;
+    background: #d8cede;
+    border:5px solid #433a44;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.advice {
+    clear: both;
+}
+.content-wrapper {
+   
+    float: left;
+    width: 240px;
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-left: 2px solid #ded4dfa1;
+    border-right: 2px solid #ded4dfa1;
+    margin-bottom: 20px;
+    
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
