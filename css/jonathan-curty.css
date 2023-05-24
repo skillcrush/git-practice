@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-image: linear-gradient(to bottom right, rgb(253, 253, 199), rgb(183, 237, 255));
+    color: #2f2f33;
+    width: 1200px;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #0b0561;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #031c9a;
+}
+
+hr {
+    color: #0b0561;
+}
+a {
+    text-decoration: underline;
+    color: #0b0561;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    font-variant: small-caps;
+}
