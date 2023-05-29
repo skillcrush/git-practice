@@ -1,0 +1,31 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #f3d8e3;
+}
+
+h1 {
+    font-size: 2.35em;
+    color: #1d1d1d;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #8d3565;
+}
+
+a {
+    text-decoration: none;
+    color: #1e757a;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
