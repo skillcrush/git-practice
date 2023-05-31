@@ -1,0 +1,41 @@
+body {
+    background: rgb(213, 191, 241);
+    font-family: 'Inconsolata', monospace;
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1,
+h4 {
+    color: rgb(108, 22, 142);
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-family: 'Monoton', cursive;
+    word-spacing: 10px;
+}
+
+h1 {
+    background: #beeff3;
+    padding: 20px;
+    font-size: 34px;
+}
+
+h4 {
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+.advice {
+    background: #beeff3;
+    padding: 10px 20px;
+    line-height: 20px;
+    border-radius: 25px;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    font-size: 12px;
+}
