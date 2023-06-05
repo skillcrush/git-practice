@@ -1,0 +1,12 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background: url(..img/pexels-matt-hardy-1533720.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.skillcrush-advice {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
