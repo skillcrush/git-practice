@@ -33,3 +33,7 @@ h1 {
     float: left;
     align-items: center;
 }
+
+.center {
+    text-align: center;
+}
