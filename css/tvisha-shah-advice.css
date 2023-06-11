@@ -1,0 +1,39 @@
+body {
+	background: #c3dbe3;
+	color: #24505e;
+	font-family: math;
+	padding: 20px;
+}
+
+a:link, a:visited {
+	background-color: #c3dbe3;
+	border: 2px solid #24505e;
+	color: #24505e;
+	display: inline-block;
+	padding: 15px 20px;
+	text-align: center;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+  background-color: #24505e;
+  color: #c3dbe3;
+}
+
+h1 {
+	display: inline-block;
+	font-size: 40px;
+	padding-left: 100px;
+}
+
+.half {
+    padding: 8px;
+    margin: 8px 10px;
+    width: 47%;
+    float: left;
+    align-items: center;
+}
+
+.center {
+    text-align: center;
+}
