@@ -1,0 +1,63 @@
+body {
+  background-color: hsl(189, 53%, 32%);
+}
+
+/* Heading Section */
+
+header h1 {
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  margin-top: 30px;
+}
+
+header span {
+  font-family: "Yellowtail", cursive;
+  color: hsl(309, 53%, 32%);
+  font-size: 48px;
+}
+
+/* Advice Section */
+
+.accordion {
+  padding: 5% 10%;
+}
+
+.accordion-item {
+  box-shadow: 1px 1px 3px #000000;
+}
+
+.accordion-button {
+  text-transform: capitalize;
+}
+
+.accordion-button:not(.collapsed) {
+  color: hsl(309, 53%, 32%);
+  background-color: hsl(309, 53%, 92%);
+}
+
+.accordion-button::after {
+  color: hsl(309, 53%, 32%);
+}
+/* Footer Section */
+
+footer {
+  text-decoration: none;
+  color: #d4d7d8;
+  margin-top: 20px;
+}
+
+footer .btn {
+  color: #ffffff;
+  margin-left: 3%;
+  border: 2px solid hsla(69, 53%, 32%, 0.7);
+  background-color: hsla(69, 53%, 32%, 0.7);
+  color: #d4d7d8;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+footer p {
+  float: right;
+  margin-right: 5%;
+  text-shadow: 1px 1px 0px #000000;
+}
