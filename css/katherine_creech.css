@@ -1,0 +1,32 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.skillcrush-advice {
+    width: 800px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+h1 {
+    font-family:'Rubik Puddles', cursive;
+    text-align: center; 
+}
+
+.advice {
+    border: 5px solid #ddd;
+    padding: 15px 25px;
+    margin: 0;
+}
+
+.darker-paragraph {
+    color: #8E6B79;
+}
+
+.footer-image {
+    border: 5px solid #ddd;
+}
