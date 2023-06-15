@@ -1,0 +1,34 @@
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #96ec7cd8;
+    font-family: 'Zen Antique Soft', serif;
+    font-weight: lighter;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    font-family: 'Zen Antique Soft', serif;
+    font-weight: lighter;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(0, 85, 52);
+    font-family: 'Philosopher', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #966812;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
