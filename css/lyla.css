@@ -1,0 +1,43 @@
+html { 
+    background: url("https://static01.nyt.com/images/2021/10/03/arts/03carnegie-1/merlin_194761119_b078250d-5d99-4430-be45-0d37779b9b2b-superJumbo.jpg") no-repeat center center fixed; 
+    background-size: cover;
+  }
+
+body {
+    width: 800px;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    margin: 20px 0 0 0;
+}
+
+p {
+    margin: 10px;
+}
+
+a {
+    background-color: rgb(255, 255, 204, .5);
+}
+
+.advice {
+    background-color: rgb(255, 255, 204, .7);
+    padding-bottom: 10px;
+    overflow:auto;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 50%;
+    text-align: right;
+}
+
+
