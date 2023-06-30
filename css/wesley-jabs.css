@@ -1,0 +1,30 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 30px;
+    padding: 1em;
+    margin: 0 auto;
+    background: hsl(267, 71%, 38%);
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #3a0101;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: hsl(3, 89%, 32%);
+}
+
+a {
+    text-decoration-style: wavy;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
