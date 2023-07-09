@@ -1,0 +1,50 @@
+/*****GLOBAL STYLE*****/
+body {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400px;
+    color: rgb(170, 109, 180);
+    font-size: 18px;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(110, 71, 116);
+    
+    font-size: 32px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Roboto Mono', monospace;
+    color:rgb(132, 85, 139);
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p {
+    text-align: left;
+    line-height: 28px;
+}
+
+.sophie-advice {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+header h1 {
+    width: 1000px;
+    margin: 50px 60px 80px;
+    padding: 20px;
+    border: lightpink dotted 10px;
+}
+
+footer p {
+    font-size: 14px;
+    font-family: 'Roboto Mono';
+    color: #81678b;
+    text-align: center;
+    padding-top: 30px;
+}
