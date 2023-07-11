@@ -1,0 +1,41 @@
+/****Global Styles****/
+body {
+    background-color:#FBEEE6;
+    font-family: 'Galada', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+/***header with advisor's name ****/
+header span{
+    font-family: 'Galada', cursive;
+}
+h4{
+    color:#0E6655;
+    text-transform: uppercase;
+}
+p span{
+    font-family: 'Galada', cursive 
+}
+.first-advice{
+ width: 600px;
+ float: left;
+}
+
+.second-advice{
+    width: 600px;
+    float: left;
+}
+.first-advice img{
+    width: 400px;
+    float: left;
+    margin-right: 60px;
+    margin-left: 20px;
+}
+.second-advice img{
+    width: 400px;
+    float: left;
+}
+footer{
+    clear: both;
+
+
+}
