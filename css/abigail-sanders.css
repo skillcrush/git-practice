@@ -1,0 +1,20 @@
+h1 {
+    font-style: oblique;
+    color:cornflowerblue;
+    text-align: center;
+}
+
+p {
+    color: coral;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+}
+
+h4 {
+    font-size: large;
+    text-decoration: underline;
+    margin-bottom: 0;
+    font-style: inherit;
+    color: blueviolet;
+}
+
