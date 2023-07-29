@@ -1,0 +1,54 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #d0b5c8;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #dc65ba;
+    margin-top: 1em;
+    font-family: 'Borel', sans-serif;
+    text-align: center;
+}
+
+h4 {
+    font-size: 35px;
+    font-weight: bold;
+    color: #dc65ba;
+    text-align: center;
+    font-family: 'Borel', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #dc65ba;
+    font-family: 'Borel', sans-serif;
+    border: 1px solid #d37ebb;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    box-shadow: 5px 5px 8px #dc65ba, 10px 10px 8px #d37ebb, 15px 15px 8px #d0b5c8;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+p {
+    text-align: center;
+    font-family: 'Edu SA Beginner', sans-serif;
+    font-size: 25px;
+    color: #606060;
+}
+
+.advice {
+    border: 1px solid #d37ebb;
+    box-shadow: 5px 5px 8px #dc65ba, 10px 10px 8px #d37ebb, 15px 15px 8px #d0b5c8;
+    padding-left: 50px;
+    padding-right: 50px;
+}

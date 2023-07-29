@@ -1,0 +1,87 @@
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    /*background: #ddd; */
+    background-image: var(--gradient);
+    background-size: 400%;
+    animation: bg-animation 12s infinite alternate;
+    animation-delay: 1s;
+
+
+    /*background: #4da0b0;  fallback for old browsers */
+    /*background: -webkit-linear-gradient(to right, #64a7b5, #d2bb8f); /* Chrome 10-25, Safari 5.1-6 
+    background: linear-gradient(to right, #64a7b5, #d2bb8f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      
+}
+
+a {
+    font-family: 'Galada', cursive;
+    font-size: 24px;
+    color: #ddd
+}
+
+:root {
+    --gradient: linear-gradient(
+        90deg,
+        #64A7B5,
+        #64A7B5,
+        #7AAEB4,
+        #7AAEB4,
+        #8FB5B3,
+        #A5BCB2,
+        #C5C6B1,
+        #DDCEB0,
+        #E4CCB7,
+        #F8C7CA,
+        #FCC6CE,
+        #FCC6CE
+        
+    );
+}
+
+@keyframes bg-animation {
+    0% {background-position: left;}
+    100% {background-position: right;}
+}
+
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 b {
+    font-family: "Permanent Marker", cursive;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+    font-family: 'Lora', sans-serif;
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.25em;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    font-size: 1em;
+    padding-top: 0.5em;
+}
+
+span {
+    font-family: 'Permanent Marker', cursive;
+  
+}

@@ -1,0 +1,82 @@
+/* global styles */
+body {
+    width: 1000px;
+    margin: auto;
+    padding: 50px 0px;
+    font-family: 'Caudex', serif;
+    font-weight: 400;
+    background-color: whitesmoke;
+}
+
+a {
+    color:blueviolet;
+    font-size: 20px;
+}
+
+h1, 
+h2, 
+h3, 
+h4 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Caudex', serif;
+    font-weight: 400;
+}
+
+header {
+    text-align: center;
+    width: 700px;
+    margin: auto;
+}
+
+header h1 {
+    background-color: lightsteelblue;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+/* class styles */
+
+.first-advice, 
+.second-advice {
+    float: left;
+    width: 450px;
+    margin: 0px 25px;
+    overflow: auto;
+    box-sizing: border-box;
+    padding: 10px 50px;
+    background-color: lavender;
+    border: none;
+    border-radius: 30px;
+}
+
+.first-advice h4, 
+.second-advice h4 {
+    text-align: center;
+    font-size: 24px;
+
+}
+
+.first-advice p,
+.second-advice p {
+    text-align: justify;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.first-advice img {
+    width: 100px;
+    margin: auto;
+    display: block;
+    padding: 0px 0px 10px 0px;
+}
