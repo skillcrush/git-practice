@@ -1,0 +1,33 @@
+body {
+    background-color: mintcream;
+}
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 30px;
+    margin-top: 50px;
+}
+
+div {
+    width: 800px;
+    padding-left: 150px;
+}
+
+section h4 {
+    text-decoration: underline;
+    font-size: 20px;
+    color: olive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section p {
+    font-size: 18px;
+    padding: 25px 50px;
+    line-height: 30px;
+    border: 3px solid darkorchid;
+    border-radius: 30px;
+}
+
+footer {
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
