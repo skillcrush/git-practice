@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #f7d6d6;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #5b1c1c;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #355E3B;
+}
+
+.advice {
+    border:2px solid #355E3B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: #5b1c1c;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
