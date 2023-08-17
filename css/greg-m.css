@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 20px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #d5f4e6;
+}
+
+h1 {
+    font-family: "Oxygen", sans-serif;
+    font-size: 2.25em;
+    color: #354040;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: "Oxygen", sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #026F7A;
+}
+
+a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #484A4A;
+}
+
+p {
+    font-family: "Open-sans", sans-serif;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
