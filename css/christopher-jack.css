@@ -1,0 +1,76 @@
+/* Reset some default browser styles */
+body,
+h1,
+h2,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Make a background */
+body {
+    background-color: #2a2a2a;
+    color: #f5f5f5;
+    font-family: 'Source Sans 3', sans-serif;
+    line-height: 1.6;
+}
+
+/* Container to narrow the content */
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Style the header to include the background image */
+header {
+    background-image: url(https://images.unsplash.com/photo-1509773896068-7fd415d91e2e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80);
+    background-size: cover;
+    /* Cover the entire header */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    text-align: center;
+    /* Center the title text */
+    color: #ffffff;
+    /* Make the text white for visibility against a dark image */
+    padding: 100px 0;
+    /* Add some padding to make the header taller */
+}
+
+a {
+    color: #ffffff;
+}
+
+
+/* Style the title */
+.title {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 1;
+    /* Make sure the title appears above the background */
+}
+
+/* Style the subtitles */
+.subtitle {
+    font-size: 24px;
+    color: #f7df4d;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Style the text */
+.text {
+    font-size: 19px;
+    margin-bottom: 20px;
+}
+
+/* Style the horizontal line */
+.divider {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin: 20px 0;
+}
