@@ -1,0 +1,34 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.content-wrapper{
+    width: 800px;
+    margin: 0 auto;
+    overflow: auto;
+    background-color: white;
+}
+
+header h1{
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    color: #7B7E54;
+    padding: 25px 0 25px 25px;
+}
+
+h4{
+    font-family: 'Lora', serif;
+    font-size: 24px;
+    color: #817F80;
+    padding: 20px 0 0px 25px;
+    margin: 0;
+}
+
+p{
+    padding-left: 20px;
+}
+
+footer{
+    margin: 0;
+    padding: 0;
+}
