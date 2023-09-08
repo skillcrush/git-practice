@@ -25,13 +25,6 @@ a:hover {
     color:#2eb82e;
 }
 
-.slimer {
-    float: right;
-    height: 87px;
-    width: 100px;
-    object-fit: cover;
-}
-
 .copyright {
     float: left
 }
