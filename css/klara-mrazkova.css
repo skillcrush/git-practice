@@ -1,0 +1,50 @@
+/***** BASE STYLES *****/
+header {
+    background: #B8E8FE;
+    margin: 0 auto;
+}
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #F7CDF5;
+}
+
+a {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 12px;
+    padding-left: 5px;
+    color: #65074A;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #AF0C82;
+    margin-top: 1em;
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 15px;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #AF0C82;
+    text-transform: uppercase;
+}
+
+p {
+    background: #B8E8FE;
+    margin: 0 auto;
+    padding: 5px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #65074A;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
