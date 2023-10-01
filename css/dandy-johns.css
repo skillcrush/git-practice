@@ -1,0 +1,40 @@
+body {
+    font-size: 20px;
+    font-family: 'Courier';
+    font-weight: 500;
+    color: #2eb82e;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+    color: #adebad;
+}
+
+section strong{
+    color:  #bf80ff;
+    animation: blinker 1.5s linear infinite;
+}
+
+a {
+    color:  #bf80ff;
+}
+
+a:hover {
+    color:#2eb82e;
+}
+
+.copyright {
+    float: left
+}
+
+.tnt {
+    color: #ffff66;
+}
+  
+@keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
