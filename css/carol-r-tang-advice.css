@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@600&family=Montserrat&display=swap');
+
+
+body {
+	box-sizing: border-box;
+	margin: 0;
+	background-color: #ffffff;
+}
+
+header {
+	box-sizing: border-box;
+	padding: 2.5% 10%;
+	background-color: #b7e3dc;
+}
+
+section {
+	box-sizing: border-box;
+	padding: 2.5% 10%;
+}
+
+h1, h4 {
+	font-family: 'Josefin Slab', serif;
+	color: #0e8270;
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+}
+
+h4 {
+	font-size: 24px;
+}
+
+p {
+	padding-bottom: 2em;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.5em;
+}
+
+button {
+	border: none;
+	border-radius: 5px;
+	padding: 15px 20px;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #0e8270;
+	box-shadow: 0px 5px 5px #595959;
+}
+
+button:hover {
+	color: #0e8270;
+	background-color: #ffffff;
+	cursor: pointer;
+}
+
+footer {
+	padding: 2.5% 10%;
+	background-color: #000000;
+	text-align: center;
+	color: #ffffff;
+	font-size: 12px;
+}
+
+
