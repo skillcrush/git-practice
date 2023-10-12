@@ -1,0 +1,31 @@
+/****** Global Styles ******/
+
+body {
+    font-family: 'Young Serif', serif;
+    background: #E6E6FA;
+
+}
+
+p {
+    line-height: 30px;
+}
+
+/****** Header Styles ******/
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    color: #191970;
+    text-decoration: underline;
+}
+
+/****** Footer Styles ******/
+
+footer p{
+    text-align: center;
+    padding-top: 30px;
+    
+}
