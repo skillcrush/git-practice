@@ -1,0 +1,47 @@
+body {
+    background: #0f1208;
+    text-align: center;
+}
+
+header {
+    padding-top: 20px;
+}
+
+h1, h2 {
+    font-family: 'Amatic SC', cursive;
+    color: #d7b7df;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Bruno Ace SC', cursive;
+    color: #b7bfdf;
+}
+
+.advice {
+    color: #d2c9e7;
+}
+
+h4 {
+    font-family: 'Victor Mono', monospace;
+    font-size: 20px;
+}
+
+.advice p {
+    font-family: 'Chakra Petch', sans-serif;
+    margin: 30px 60px;
+}
+
+footer {
+    font-family: 'Bruno Ace SC', cursive;
+    padding: 20px 0;
+    color: #b7bfdf;
+}
