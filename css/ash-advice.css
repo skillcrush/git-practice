@@ -1,0 +1,23 @@
+h1 {
+  color: rgb(56, 56, 56);
+  text-align: center;
+}
+
+.advice {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.advice-item {
+  border: 3px solid olivedrab;
+  padding: 10px;
+  border-radius: 2%;
+  background-color: rgb(238, 238, 162);
+  color: rgb(56, 56, 56);
+}
+
+.advice-item:hover {
+  color: darkgreen;
+  cursor: pointer;
+}
