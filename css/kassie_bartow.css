@@ -1,0 +1,36 @@
+body {
+    font-size: 14px;
+    font-family: 'Lora', serif;
+    background: #F9F1EF;
+    color: #075CFB;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 65px;
+}
+
+h4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+
+}
+
+a {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    color: #B695EE;
+
+
+}
+
+footer {
+    text-align: center;
+    padding: 50px 0 25px 0;
+}
+
+.skillcrush-advice
+{
+    width: 1000px;
+    margin-left: 100px;
+}
