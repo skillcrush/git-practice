@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+  font-size: 24px;
+  padding: 1em;
+  margin: 0 auto;
+  background: #c9edef;
+}
+
+h1 {
+  font-size: 2.25em;
+  color: #026c71;
+  margin-top: 1em;
+  font-family: 'Cedarville Cursive', cursive;
+}
+
+h4 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #357a7d;
+  font-family: 'Unna', serif;
+}
+
+a {
+  text-decoration: none;
+  color: #a20087;
+  font-family: 'Unna', serif;
+}
+
+p {
+  font-family: 'Unna', serif;
+}
+
+footer {
+  text-align: center;
+  padding-top: 1em;
+}
