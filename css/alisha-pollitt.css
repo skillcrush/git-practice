@@ -1,0 +1,20 @@
+/***** BASE STYLES *****/
+
+body{
+    background:green;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    color:blanchedalmond;
+}
+
+P{
+    font-family:'Courier New', Courier, monospace;
+    color:blanchedalmond;
+}
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:antiquewhite;
+}  
