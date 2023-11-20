@@ -17,7 +17,7 @@ h1 {
     color: #006699;
     margin-top: 1em;
     font-family: "Noto Sans", sans-serif;
-    text-align: center;
+    text-align: left;
     text-transform: capitalize;
     width: 1000px;
     overflow: auto;
@@ -27,6 +27,8 @@ h1 {
 span {
     color: #ff4da6;
     font-style: italic;
+    font-family: cursive;
+    font-size: 2em;
 }
 
 h4 {
@@ -42,9 +44,10 @@ p {
     color: black;
 }
 
-.image {
+.image-link {
     padding: 100px 0px;
     text-align: center;
+    font-size: 2.5em;
 }
 
 a {
