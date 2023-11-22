@@ -1,0 +1,39 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: yellowgreen;
+    text-align: left;
+    width: 600px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: black;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+}
+p {
+    color: black;
+    font-weight: bold;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
