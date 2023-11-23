@@ -1,0 +1,38 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: rgb(178, 247, 178);
+    font-family:'Courier New', Courier, monospace
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-align: left;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: purple;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background: yellow;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    text-decoration: underline;
+    text-align: right;
+}
