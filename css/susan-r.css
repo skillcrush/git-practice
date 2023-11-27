@@ -2,7 +2,7 @@
 
 body {
     font-size: 16px;
-    background:aquamarine;
+    background: ivory;
     font-family: Arial, Helvetica, sans-serif, sans-serif;
 }
 
@@ -29,8 +29,8 @@ p {
 }
 
 a {
-    text-decoration: none;
-    color: #053f47;
+    text-decoration:underline;
+    color: red;
 }
 
 .image {
