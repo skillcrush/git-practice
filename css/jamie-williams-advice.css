@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 20px;
+    padding: 1em;
+    margin: 0 auto;
+    background: url("../img/pexels-tülay-ilhan-10304555.jpg") no-repeat goldenrod;
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    font-size: 2.25em;
+    color: #D9A117;
+    margin-top: 1em;
+    font-family: 'Agbalumo', sans-serif;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #C1C593; 
+    font-family: 'dm sans', sans-serif;
+}
+
+li {color: #EEF0D3;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    color: #EEF0D3;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: white;
+}
