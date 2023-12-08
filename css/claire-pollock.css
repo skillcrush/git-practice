@@ -1,0 +1,42 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 15px;
+    background: #faf5f5;
+    width: 1000px;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: lightseagreen;
+    margin-top: 1em;
+    text-align: center; 
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+    color: #bb433d;
+    text-align: center;
+
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    border: darkturquoise dotted 7px;
+}
+
+span {
+    font-style: italic;
+    color: darkcyan;
+}
