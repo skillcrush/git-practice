@@ -4,9 +4,9 @@ body {
     font-size: 20px;
     padding: 1em;
     margin: 0 auto;
-    background: url("../img/pexels-tülay-ilhan-10304555.jpg") no-repeat goldenrod;
     background-size: cover;
     background-position: center;
+    background: grey;
 }
 h1 {
     font-size: 2.25em;
