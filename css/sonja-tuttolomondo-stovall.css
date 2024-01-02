@@ -1,0 +1,18 @@
+
+body {
+    background: lightpink;
+}
+
+h1,
+h4 {
+text-decoration: underline;
+}
+h1 {
+    color: rgb(82, 73, 73);
+}
+h4 {
+    color: blue;
+}
+footer {
+    color: rgb(61, 83, 17);
+}
