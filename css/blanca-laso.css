@@ -1,0 +1,41 @@
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #DBEDFF;
+}
+
+h1 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 57px;
+    color: #6495ED;
+    margin-top: 1em;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h4 {
+    font-size: 33px;
+    font-family: 'Agbalumo', sans-serif;
+    font-weight: bold;
+    color: #a4c0f4;
+}
+
+a {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #154eb7;
+}
+
+p {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+}
+
+footer {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    padding-top: 1em;
+}

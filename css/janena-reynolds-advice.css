@@ -1,0 +1,10 @@
+/****** Global Stlyes *****/
+body {
+    background: #99ffdd;
+    font-size: 20px;
+}
+
+/******* Header Styles ******/
+header h1 {
+    outline: 3 px solid pink;
+}

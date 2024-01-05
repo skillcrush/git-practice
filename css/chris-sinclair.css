@@ -1,0 +1,41 @@
+/***** BASE STYLES *****/
+body {
+    background-color: lightseagreen;
+    color: darkblue;
+    font-size: 16px;
+}
+
+/***** LINK TO MAIN PAGE *****/
+.skillcrush-advice a {
+    color: #f52532;
+    text-decoration: none;
+}
+
+/***** HEADINGS *****/
+.skillcrush-advice h1 {
+    color: #800080;
+    font-size: 32px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.advice h4 {
+    color: black;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+/***** PARAGRAPHS *****/
+.advice p {
+    line-height: 30px;
+}
+
+/***** FOOTER *****/
+footer p {
+    color: #800080;
+    font-size: 12px;
+    margin-top: 30px;
+    text-align: center;
+}
