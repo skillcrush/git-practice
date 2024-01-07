@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #f7f7ff;
+    font-family: 'Onest', sans-serif;
+    color: #1d3f5d;
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #982649;
+    font-size: 48px;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #ee1b57;
+}
+
+.highlight {
+    font-family: 'Pacifico', cursive;
+    color: #8a4fff;
+}
+
+img {
+    width: 350px;
+    border: #8a4fff solid 4px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
