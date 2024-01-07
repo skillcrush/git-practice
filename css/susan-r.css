@@ -1,0 +1,48 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    background: ivory;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #dd0a35;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+}
+
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fa466b;
+    margin: 0 120px;
+}
+
+p {
+    color: #053f47;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+a {
+    text-decoration:underline;
+    color: red;
+}
+
+.image {
+    display: block;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 25px;
+    margin-left: auto;
+    width: 50%;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}

@@ -1,0 +1,41 @@
+html {
+
+    height: 80%;
+}
+
+body {
+    background-color: #9400D3;
+    height: 100%;
+    justify-content: center;
+    font-size: 18px;
+    align-items: center;
+    width: 1400px;
+    padding-left: 200px;
+    
+}
+
+h1 {
+
+    color: #000080;
+    font-family: 'Titillium web' sans-serif;
+    font-size: 60px;
+    font-style: bold;
+    text-align: center;
+}
+
+h4 {
+    color: cyan;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+
+}
+
+p{
+    color: bisque;
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+    
+}

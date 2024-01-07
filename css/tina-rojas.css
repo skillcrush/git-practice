@@ -1,0 +1,58 @@
+body{
+    background: url('https://dspncdn.com/a1/media/692x/23/57/5b/23575b9903339a4ee40b01404a95b27c.jpg'), no-repeat Pink;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+}
+.content-wrapper{
+    width: 600px;
+    margin: 0 auto;
+    overflow: auto;
+
+}
+#nav-redirect{
+    background: #ca7351;
+    width: 150px;
+    margin: 10px;
+    padding: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+h1{
+    font-family: 'Agbalumo', serif;
+    text-align: center;
+    color: #f9f2eb;
+    border: 5px dashed;
+    border-radius: 5px;
+    padding: 0 10px 5px 0;
+    width: 585px;
+    background: #4f342a;
+    margin: 0 auto;
+    overflow: auto;
+}
+.bulk{
+    color: #f9f2eb;
+    width: auto;
+    padding: 10px;
+    background: #CA7351;
+    background-size: cover;
+    border: 10px ridge #cc6600;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+h4{
+   font-size: 18px;
+}
+p{
+    padding: 0 5px;
+    line-height: 25px;
+}
+#copyright{
+    background: #4f342a;
+    text-align: center;
+    color: #f9f2eb;
+    font-variant: small-caps;
+}
+/*** work on footer***/

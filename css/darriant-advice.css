@@ -1,0 +1,75 @@
+body{
+    background-color:rgb(41, 40, 40);
+    text-align: center;
+    width: 1200px;
+    margin: 0 auto;
+}
+#main-page-link{
+    border: 3px ridge white;
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: left;
+    font-family: monospace;
+    width: max-content;
+    padding: 12px 8px;
+}
+#main-page-link a{
+    text-decoration: none;
+    color: white;
+}
+#introduction{
+    background: linear-gradient(to top, rgb(100, 0, 128), slateblue);
+    color: white;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding: 50px 10px;
+    margin: 5px;
+}
+h3{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin: 5px;
+    line-height: 25px;
+}
+
+section .advice{
+    background: linear-gradient(to right, black 46%, white 54%);
+    color: gray;
+}
+.advice article{
+    width: 600px;
+    float: left;
+    padding: 5px 50px;
+    box-sizing: border-box;
+}
+article p{
+    text-align:justify;
+}
+.outro{
+    background: linear-gradient(rgb(100, 0, 128), slateblue);
+    color: white;
+    padding: 12px 20px; 
+}
+.outro p{
+    font-size: large;
+    font-weight: 600;
+    line-height: 40px;
+}
+#dissonance{
+    color: white;
+}
+#belief{
+    color: black;
+}
+footer p{
+    text-align: right;
+    font-size: small;
+    color: white;
+    font-family: serif;
+}
