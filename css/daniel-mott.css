@@ -1,0 +1,53 @@
+.skillcrush-advice {
+    background: #1d1f20;
+}
+
+#advice {
+    text-align: center;
+    width: 1100px;
+    height: 500px;
+    overflow: auto;
+    margin: auto;
+}
+
+.tip {
+    float: left;
+    width: 500px;
+    border: 5px solid #ffffff57;
+    padding: 5px;
+    margin: 25px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background: #40445c;
+}
+
+h4 {
+    font-family: "Roboto Condensed";
+    color: lightgrey;
+}
+
+h1 {
+    font-family: "Roboto Condensed";
+    text-align: center;
+    color: rgb(151, 151, 151);
+    border-bottom: 5px solid #40445c;
+    border-radius: 10px;
+    width: 1100px;
+    margin-left: 300px;
+    padding: 10px 0px;
+}
+
+p {
+    font-family: "Nunito Sans";
+    color:lightgrey;
+}
+
+body {
+    text-align: center;
+}
+
+header a {
+    font-family: "Nunito Sans";
+    text-transform: uppercase;
+    color: lightgrey;
+}
