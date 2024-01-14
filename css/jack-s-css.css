@@ -1,0 +1,15 @@
+body {
+    background: skyblue;
+}
+
+header h1 {
+    font-style: italic;
+}
+
+section h4 {
+    font-style: italic;
+}
+
+section .advice p {
+    font-weight: bold;
+}
