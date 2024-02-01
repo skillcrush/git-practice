@@ -1,0 +1,50 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 30px;
+    font-family: Didot;
+    padding: 1em;
+    margin: 0 auto;
+    background: #F4F6F9;
+    width: 1200px;
+}
+
+/***** My Name *****/
+h1 {
+    font-size: 80px;
+    font-family: Didot;
+    font-variant: small-caps;
+    color: #12374D;
+    margin-top: 1em;
+    text-align: left;
+    width: 400px;
+}
+
+p1{
+    font-size: 40px;
+    color: pink;
+}
+/***** Titles *****/
+
+
+h4 {
+    font-size: 40px;
+    font-variant: small-caps;
+    font-weight: bold;
+    color: #246292;
+    text-align: center;
+    font-family: Georgia;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 15px;
+    color:  #246292;
+    
+}
+
+footer {
+    text-align: left;
+    padding-top: 1em;
+}
