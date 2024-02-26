@@ -1,0 +1,57 @@
+/***** BASE STYLES *****/
+* {
+    box-sizing: border-box;
+}
+
+#back-link {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+#back-link:hover{
+    font-weight: bold;
+     text-decoration: none;
+    color: #bb433d;
+}
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+    width: 800px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 2.4em;
+    color: #333;
+    margin-top: 1.3em;
+    text-align: center;
+    font-weight: bolder;
+}
+
+h3{
+    text-align: center;
+    color: #333;
+    font-weight: 500;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 1.1em;
+    line-height: 2;
+    margin-top: 0;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
