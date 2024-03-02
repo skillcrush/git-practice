@@ -1,0 +1,20 @@
+/**Header**/
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align:center;
+}
+/**Section**/
+.advice h4 {
+    font-size:25px;
+    text-align:center;
+    color:brown;
+    text-transform:capitalize;
+    text-decoration: underline;
+}
+
+.advice p{
+    text-align:center;
+}
+/**Footer**/
