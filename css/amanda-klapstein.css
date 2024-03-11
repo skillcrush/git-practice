@@ -1,0 +1,85 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #d0f6cbef;
+    text-align: left;
+}
+
+.content-wrapper {
+    width: 800px;
+    margin: auto;
+    overflow: auto;
+}
+/***Developer Note: I added the content-wrapper class and changed the font-family to Arial, Helvetica, sans-serif and the background color to #d0f6cbef.***/
+
+/***NAVIGATION STYLES***/
+a {
+    text-decoration: none;
+    color: #150326;
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+.button {
+    display: inline-block;
+    padding: 0.5em 1em;
+    background-color: #9a65c8;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.75em;
+    cursor: pointer;
+}
+/***Developer Note: I added the .button class and changed the font.
+
+/***HEADER STYLES***/
+h1 {
+    font-size: 1.4em;
+    color: #48056a;
+    margin-top: 1em;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+h4 {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #9b13da;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+/***Developer Note: I changed the font-size to 1.4em, the color to #48056a, the text-align to center, the text-transform to uppercase, and the font-style to italic.***/
+
+/***PARAGRAPH STYLES***/
+
+p span {
+    font-family: cursive;
+    font-weight: bold;
+    text-decoration: double;
+    font-size: 1.5em;
+    color: #9b13da;
+}
+/***Developer Note: I added the p span style.**/
+
+/***FOOTER STYLES***/
+
+footer {
+    font-size: 0.9em;
+    text-align: center;
+    padding-top: 1em;
+}
+
+footer span {
+    font-family: cursive;
+    font-weight: bolder;
+    text-shadow: whitesmoke 2px 2px 2px;
+    color: #0b6b4efe;
+    font-size: 1.5em;
+}
+/***Developer Note: I added the footer span style and made some changes to the text.***/
