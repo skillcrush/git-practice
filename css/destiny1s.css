@@ -1,0 +1,92 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 20px;
+    padding: 1em;
+    margin: 0 auto;
+    background: url("https://images.unsplash.com/photo-1622429420355-5677170f4fad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") #D2B582;
+    font-style: "Spectral", serif;
+    font-weight: 300;
+    font-style: italic;
+    width: fit-content;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+h1 {
+    font-size: 2.25em;
+    margin: 60px 130px 25px 130px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.2);
+    width: 80%;
+    border-radius: 20px;
+    padding-bottom: 35px;
+    border: 5px solid white;
+}
+
+header h1 span {
+    font-family: "Mea Culpa", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.40em;
+}
+
+p {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 75px;
+    margin-bottom: 0;
+    padding: 0;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+/***** Advice STYLES *****/
+#advice {
+    text-align: center;
+    height: 800px;
+}
+
+#advice .advice-list {
+    float: left;
+    width: 400px;
+    padding: 0 10px;
+}
+
+#advice h4 {
+    padding-bottom: 5px;
+    background: rgba(0, 0, 0, 0.35);
+}
+
+#advice p {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 15px;
+    border: 5px solid rgb(255, 255, 255);
+    text-align: justify;
+    border-radius: 20px;
+    height: 500px;
+    background: rgba(0, 0, 0, 0.35);
+}
+
+#footer {
+    position: inherit;
+    bottom: 0;
+    width: 100%;
+    clear: both;
+}
