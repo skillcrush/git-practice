@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 25px;
+    margin: 0 auto;
+    padding: 0 50px;
+    line-height: 35px;
+}
+
+h1 {
+    font-family: "Edu NSW ACT Foundation", cursive;
+    font-size: 40px;
+    text-align: center;
+    padding: 40px 0;
+    background-color: lightcoral;
+}
+
+h4 {
+    font-family: "Edu NSW ACT Foundation", cursive;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: right;
+    padding-top: 20px;
+    font-style: italic;
+    
+}
