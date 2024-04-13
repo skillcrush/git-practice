@@ -1,0 +1,52 @@
+
+/******* GLOBAL STYLES *******/
+.carrie-advice {
+    background: linen;
+    font-family: Monserrat, sans-serif;
+    margin: 0 auto;
+    width: 85%;
+    text-align: justify;
+    font-size: 1.2em;
+    border: 25px dashed thistle;
+    padding: 15px 75px;
+}
+
+
+/******* HEADER STYLES *******/
+header a {
+    color: lightsteelblue;
+    text-decoration: none;
+    font-size: .75em;    
+}
+a:hover {
+    color: pink;
+    text-decoration: underline;
+}
+h1 {
+    font-family: "Dancing Script", cursive;
+    color: cadetblue;
+    margin: 40px 0;
+    font-size: 2.8em;
+    font-weight: bold;
+}
+
+/******* SECTION STYLES *******/
+h4 {
+    color: darkseagreen;
+    font-size: 1.4em;
+    font-weight: 500;
+    font-style: italic;
+    margin: 45px 0 15px 0;
+}
+p {
+    color: darkslategray;
+}
+
+
+/******* FOOTER STYLES *******/
+footer p {
+    margin-top: 75px;
+    text-align: center;
+    font-size: .65em;
+    color: lightsteelblue;
+}
