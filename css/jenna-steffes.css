@@ -1,0 +1,41 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    color: #191970;
+    text-align: left;
+    padding: 10px;
+    margin: 0 auto;
+    background: #F5F5F5;
+}
+
+h1 {
+    font-size: 30px;
+    color: #E6E6FA;
+    background-color: #6A5ACD;
+    margin-top: 15px;
+    border: 20px solid #483D8B;
+    font-family: 'Lora', 'open-sans';
+}
+
+h4 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #E6E6FA;
+    border: 10px solid #483D8B;
+    background-color: #6A5ACD;
+    font-family: 'Lora', 'open-sans';
+}
+
+a {
+    text-decoration: none;
+    color: #191970;
+    font-variant: small-caps;
+    font-family: 'open-sans', 'Lora';
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    padding-top: 5px;
+}
