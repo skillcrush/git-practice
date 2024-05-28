@@ -1,0 +1,53 @@
+
+body {
+    font-family: sans-serif;
+    background-color: #fff9c4;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    text-underline-offset: 9px;
+}
+
+span {
+    font-family: 'kaushan script', sans-serif;
+    font-size: 65px;
+    color: blue;
+}
+
+.advice {
+    border: 3px solid black;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h4 {
+    font-size: 25px;
+    margin: 20px;
+}
+
+p {
+    font-size: 20px;
+    margin: 5px;
+    line-height: 25px;
+}
+
+.giff {
+    width: 480px;
+    margin: 20px auto;
+    border: 3px black solid;
+}
+
+.anchor-text {
+    text-align: center;
+}
+
+footer p {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
