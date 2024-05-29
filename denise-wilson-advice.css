@@ -1,0 +1,35 @@
+/* Styles for the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #6c1c5d;
+    color: #f448dd;
+}
+
+/* Styles for headings */
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color:black;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+
+}
+/* Styles for links */
+a {
+    color: #ce0ab7;
+    text-decoration: none;
+}
+
+a:hover {
+ text-decoration: underline;
+}
