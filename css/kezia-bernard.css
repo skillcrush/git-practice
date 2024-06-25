@@ -1,0 +1,33 @@
+body {
+    background-color: #006399;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #FFECF9;
+    padding: 5%;
+  }
+  
+  h1 {
+    color: #FFFF50;
+    font-size: 3em;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+  }
+  
+  h4 {
+      color: #FFFF50;
+      font-size: 1.5em;
+      font-family: 'Permanent Marker', cursive;
+  }
+  
+  a {
+    color: #FFFEF7;
+    font-family: 'Permanent Marker', cursive;
+  }
+  
+  p {
+    width: 80%;
+  }
+  
+  footer {
+    padding-top: 100px;
+  }
+  
