@@ -1,0 +1,71 @@
+/***** BASE STYLES *****/
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: slategray;
+    color: antiquewhite;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0 auto;
+    padding: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: ghostwhite;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    margin: 0;
+    padding-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: navajowhite;
+}
+
+p {
+    color: floralwhite;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    clear: both;
+
+}
+
+.advice {
+    border: 5px groove black;
+    clear: both;
+    height: 400px;
+}
+
+.advice--column {
+    width: 50%;
+    margin: 0 auto;
+    float: left;
+    padding: 10px;
+    overflow: auto;
+}
+
+#advice--column__text {
+    padding: 50px 0;
+}

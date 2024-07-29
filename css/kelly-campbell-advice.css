@@ -1,0 +1,66 @@
+/*****Global Styles*****/
+body {
+    
+    background: #FFFF99;
+    font-family: "Shadows Into Light", cursive;
+    font-size: 25px;
+    font-weight: 400;
+    font-style: normal;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/*****Header Styles*****/
+header {
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 900px;
+    height: 20px;
+}
+
+h1 {
+    font-family: "Patrick Hand", cursive;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    width: 1200px;
+    float: left;
+}
+
+.content-wrapper {
+    background-color: rgb(166, 235, 167);
+    width: auto;
+    height: auto;
+    line-height: 32px;
+    letter-spacing: 2px;
+    float: left;
+    padding: 0 40px;
+    border: 6px dotted #ed6adb;
+    margin-bottom: 25px;
+    box-sizing: border-box;
+}
+
+.content-wrapper span {
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: "Patrick Hand", cursive;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+section {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+footer {
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+    text-align: left;
+    clear: both;
+}
