@@ -1,0 +1,20 @@
+body {
+    background: #87CEFA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header a {
+    color: #931510;
+}
+
+h4 {
+    color: #931510;
+}
+
+#bwefler-h4 {
+    border: 2px dashed black;
+}
+
+p {
+    font-size: 18px;
+}
