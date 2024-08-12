@@ -24,22 +24,28 @@ h1 {
     font-size: 40px;
     font-weight: 400;
     font-style: normal;
-    text-align: center;
-    width: 1200px;
+    margin-top: 200px;
+    width: 1000px;
+}
+
+img {
     float: left;
+    margin-bottom: 0;
 }
 
 .content-wrapper {
     background-color: rgb(166, 235, 167);
+    margin: 0 20px 15px;
     width: auto;
     height: auto;
     line-height: 32px;
     letter-spacing: 2px;
     float: left;
+    margin-bottom: 30px;
     padding: 0 40px;
     border: 6px dotted #ed6adb;
-    margin-bottom: 25px;
     box-sizing: border-box;
+   
 }
 
 .content-wrapper span {
@@ -51,6 +57,17 @@ h2 {
     font-size: 30px;
     font-weight: 400;
     font-style: normal;
+}
+
+.believe {
+    margin: 40px 20px;
+    width: auto;
+    line-height: 32px;
+    letter-spacing: 2px;
+    float: left;
+    padding: 20px 10px;
+    border: 6px solid #999999;
+    box-sizing: border-box;
 }
 
 section {
