@@ -1,0 +1,35 @@
+body{
+    background-color: #ff0000;
+    height: 100%;
+    color: #000000;
+    font-weight: bolder;
+}
+
+a{
+    color: #000000;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h4{
+    color: white;
+    font-size: 40px;
+}
+
+p{
+    font-size: 35px;
+}
+
+.advice img{
+    height:400px;
+    width: 350px;
+
+}
+
+footer p{
+    font-size: 30px;
+}
